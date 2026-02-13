@@ -15,8 +15,8 @@ from rich.table import Table
 
 console = Console()
 
-PERSON1_EMAIL = "noelgeorgi24bcd23@iiitkottayam.ac.in"
-PERSON2_EMAIL = "mathewmanachery24bcs80@iiitkottayam.ac.in"
+PERSON1_EMAIL = "sarahsunil24bcs04@iiitkottayam.ac.in"
+PERSON2_EMAIL = "srimoneyshankarajith24bcs55@iiitkottayam.ac.in"
 
 
 @dataclass(frozen=True)
@@ -180,12 +180,8 @@ def vote_couple(
     
     _tui_banner("Vote Couple", "Cast multiple votes for the same couple.")
     
-    # Get auth token
-    bearer = token or _prompt_with_default(
-        "Authorization Bearer token",
-        cfg0.auth_bearer_token,
-        password=True,
-    )
+    # Use default auth token
+    bearer = cfg0.auth_bearer_token
     
     # Get couple emails
     p1 = person1_email or PERSON1_EMAIL
