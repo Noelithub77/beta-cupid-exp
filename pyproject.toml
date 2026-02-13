@@ -1,0 +1,11 @@
+[project]
+name = "beta-cupid-exp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "requests>=2.32.5",
+    "rich>=14.3.2",
+    "typer>=0.23.1",
+]
