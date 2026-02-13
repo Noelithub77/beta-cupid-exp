@@ -5,7 +5,7 @@ from pathlib import Path
 import requests
 
 USERS_ALL_URL = "https://www.jjose.tech/users/all"
-AUTH_BEARER_TOKEN = "fuck you"
+AUTH_BEARER_TOKEN = "See you in pairialo"
 MATCHER_EMAIL_INDEX = 1
 OUTPUT_FILE = Path("users_all.json")
 
