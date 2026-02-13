@@ -15,9 +15,9 @@ from rich.table import Table
 
 console = Console()
 
-PERSON1_EMAIL = "sarahsunil24bcs04@iiitkottayam.ac.in"
-PERSON2_EMAIL = "srimoneyshankarajith24bcs55@iiitkottayam.ac.in"
-
+PERSON1_EMAIL = "noelgeorgi24bcd23@iiitkottayam.ac.in"
+PERSON2_EMAIL = "mathewmanachery24bcs80@iiitkottayam.ac.in"
+BEARER_TOKEN = "love you...😘"
 
 @dataclass(frozen=True)
 class Config:
@@ -25,14 +25,9 @@ class Config:
     make_match_url: str = "https://www.jjose.tech/match/make"
     referer: str = "https://cupids-ledger.vercel.app/"
     origin: str = "https://cupids-ledger.vercel.app"
+    auth_bearer_token: str = BEARER_TOKEN
 
     # Defaults copied from your existing script so you can hit Enter to keep them.
-    auth_bearer_token: str = (
-        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9."
-        "eyJzdWIiOiJub2VsZ2VvcmdpMjRiY2QyM0BpaWl0a290dGF5YW0uYWMuaW4iLCJuYW1lIjoiTk9FTCBHRU9S"
-        "R0kgLUlJSVRLIiwiaWF0IjoxNzcwOTk0MzU1LCJleHAiOjE3NzA5OTc5NTV9."
-        "OoqjsOa4YVTcN4PPTlMRzlBax4eSfCsr7p-giwnq_Co"
-    )
 
     # Payload defaults
     person1_email: str = PERSON1_EMAIL
@@ -48,6 +43,52 @@ async def _send_match_request(cfg: Config, payload: dict[str, str]) -> requests.
     
     def _post():
         return requests.post(cfg.make_match_url, headers=_headers(cfg), json=payload, timeout=30)
+    
+    return await loop.run_in_executor(None, _post)
+
+
+async def _submit_onboarding(cfg: Config, email: str, gender: str = "male", preference: str = "women") -> requests.Response:
+    """Submit onboarding quiz for a user."""
+    loop = asyncio.get_event_loop()
+    
+    def _post():
+        url = "https://www.jjose.tech/users/submit-answers"
+        payload = {
+            "email": email,
+            "answers": {
+                "1": 4.3,
+                "2": 4.3,
+                "3": 6.2,
+                "4": 9,
+                "5": 8.4,
+                "6": 8.8,
+                "7": 9.7,
+                "8": 8.6,
+                "9": 1.6,
+                "10": 7.2,
+                "11": 6.9,
+                "12": 4.5
+            },
+            "gender": gender,
+            "preference": preference
+        }
+        headers = {
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.8",
+            "Connection": "keep-alive",
+            "Content-Type": "application/json",
+            "Origin": "https://cupids-ledger.vercel.app",
+            "Referer": "https://cupids-ledger.vercel.app/",
+            "Sec-Fetch-Dest": "empty",
+            "Sec-Fetch-Mode": "cors",
+            "Sec-Fetch-Site": "cross-site",
+            "Sec-GPC": "1",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "sec-ch-ua": '"Not:A-Brand";v="99", "Brave";v="145", "Chromium";v="145"',
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": '"Windows"'
+        }
+        return requests.post(url, headers=headers, json=payload, timeout=30)
     
     return await loop.run_in_executor(None, _post)
 
@@ -264,6 +305,19 @@ def vote_couple(
             for i, task_coro in enumerate(asyncio.as_completed(tasks)):
                 try:
                     resp = await task_coro
+                    
+                    # Check if onboarding is needed
+                    if resp.status_code == 400 and "Both users must complete onboarding quiz first" in resp.text:
+                        print(f"\n[yellow]Onboarding required for {p1} and {p2}. Submitting quiz...[/yellow]")
+                        
+                        # Submit onboarding for both users
+                        await _submit_onboarding(cfg, p1)
+                        await _submit_onboarding(cfg, p2)
+                        
+                        # Retry the match request
+                        print(f"[green]Retrying vote for matcher: {matcher}[/green]")
+                        resp = await _send_match_request(cfg, payload)
+                    
                     results.append((selected_matchers[i], resp.status_code, resp.text))
                     progress.update(task, advance=1)
                 except Exception as e:

@@ -6,154 +6,10 @@
     "rollno": 17
   },
   {
-    "email": "noelgeorgi24bcd23@iiitkottayam.ac.in",
-    "name": "NOEL GEORGI",
-    "year": 2024,
-    "rollno": 23
-  },
-  {
-    "email": "rohansatheesh25bcd26@iiitkottayam.ac.in",
-    "name": "ROHAN SATHEESH",
-    "year": 2025,
-    "rollno": 26
-  },
-  {
     "email": "gauthamk24bcs0253@iiitkottayam.ac.in",
     "name": "GAUTHAM KRISHNA K",
     "year": 2024,
     "rollno": 253
-  },
-  {
-    "email": "vamshikag24bcd16@iiitkottayam.ac.in",
-    "name": "VAMSHIKA G",
-    "year": 2024,
-    "rollno": 16
-  },
-  {
-    "email": "devaprassad25bec19@iiitkottayam.ac.in",
-    "name": "DEVA PRASSAD S",
-    "year": 2025,
-    "rollno": 19
-  },
-  {
-    "email": "srimoneyshankarajith24bcs55@iiitkottayam.ac.in",
-    "name": "Srimoneyshankar Ajith",
-    "year": 2024,
-    "rollno": 55
-  },
-  {
-    "email": "mahadasutarak25bcd59@iiitkottayam.ac.in",
-    "name": "MAHADASU TARAK RAM",
-    "year": 2025,
-    "rollno": 59
-  },
-  {
-    "email": "kevinseejo24bec39@iiitkottayam.ac.in",
-    "name": "Kevin Jose Seejo",
-    "year": 2024,
-    "rollno": 39
-  },
-  {
-    "email": "kushalarora24bcy32@iiitkottayam.ac.in",
-    "name": "KUSHAL ARORA",
-    "year": 2024,
-    "rollno": 32
-  },
-  {
-    "email": "nimmavarshit25bcd57@iiitkottayam.ac.in",
-    "name": "NIMMA VARSHIT REDDY",
-    "year": 2025,
-    "rollno": 57
-  },
-  {
-    "email": "aashishjacob25bcs27@iiitkottayam.ac.in",
-    "name": "AASHISH S JACOB",
-    "year": 2025,
-    "rollno": 27
-  },
-  {
-    "email": "reanna25bcs88@iiitkottayam.ac.in",
-    "name": "REANNA J",
-    "year": 2025,
-    "rollno": 88
-  },
-  {
-    "email": "vedantkhare24bcs0230@iiitkottayam.ac.in",
-    "name": "VEDANT GAUTAM KHARE",
-    "year": 2024,
-    "rollno": 230
-  },
-  {
-    "email": "benvinvinu24bcs0233@iiitkottayam.ac.in",
-    "name": "BENVIN VINU",
-    "year": 2024,
-    "rollno": 233
-  },
-  {
-    "email": "sarahsunil24bcs04@iiitkottayam.ac.in",
-    "name": "SARAH MARIAM SUNIL",
-    "year": 2024,
-    "rollno": 4
-  },
-  {
-    "email": "jamikrishna24bcs0167@iiitkottayam.ac.in",
-    "name": "JAMI VAMSI KRISHNA",
-    "year": 2024,
-    "rollno": 167
-  },
-  {
-    "email": "harikrishnans24bcs25@iiitkottayam.ac.in",
-    "name": "HARIKRISHNAN S",
-    "year": 2024,
-    "rollno": 25
-  },
-  {
-    "email": "kiranj24bec16@iiitkottayam.ac.in",
-    "name": "KIRAN J",
-    "year": 2024,
-    "rollno": 16
-  },
-  {
-    "email": "samchalissery24bcs41@iiitkottayam.ac.in",
-    "name": "SAM JOE CHALISSERY",
-    "year": 2024,
-    "rollno": 41
-  },
-  {
-    "email": "jallu23bcs134@iiitkottayam.ac.in",
-    "name": "JALLU SATVIK",
-    "year": 2023,
-    "rollno": 134
-  },
-  {
-    "email": "banirudh24bcy16@iiitkottayam.ac.in",
-    "name": "B ANIRUDH",
-    "year": 2024,
-    "rollno": 16
-  },
-  {
-    "email": "pranav25bcd62@iiitkottayam.ac.in",
-    "name": "PRANAV D",
-    "year": 2025,
-    "rollno": 62
-  },
-  {
-    "email": "serahsusan25bcs56@iiitkottayam.ac.in",
-    "name": "SERAH SUSAN SAJAN",
-    "year": 2025,
-    "rollno": 56
-  },
-  {
-    "email": "sarthak23bcs68@iiitkottayam.ac.in",
-    "name": "SARTHAK YADAV",
-    "year": 2023,
-    "rollno": 68
-  },
-  {
-    "email": "glen23bcd61@iiitkottayam.ac.in",
-    "name": "J GLEN ENOSH",
-    "year": 2023,
-    "rollno": 61
   },
   {
     "email": "maddisri24bcs77@iiitkottayam.ac.in",
@@ -162,10 +18,88 @@
     "rollno": 77
   },
   {
-    "email": "shivam23bcd42@iiitkottayam.ac.in",
-    "name": "SHIVAM KUMAR",
+    "email": "kushalarora24bcy32@iiitkottayam.ac.in",
+    "name": "KUSHAL ARORA",
+    "year": 2024,
+    "rollno": 32
+  },
+  {
+    "email": "srimoneyshankarajith24bcs55@iiitkottayam.ac.in",
+    "name": "Srimoneyshankar Ajith",
+    "year": 2024,
+    "rollno": 55
+  },
+  {
+    "email": "glen23bcd61@iiitkottayam.ac.in",
+    "name": "J GLEN ENOSH",
     "year": 2023,
-    "rollno": 42
+    "rollno": 61
+  },
+  {
+    "email": "harikrishnans24bcs25@iiitkottayam.ac.in",
+    "name": "HARIKRISHNAN S",
+    "year": 2024,
+    "rollno": 25
+  },
+  {
+    "email": "sarthak23bcs68@iiitkottayam.ac.in",
+    "name": "SARTHAK YADAV",
+    "year": 2023,
+    "rollno": 68
+  },
+  {
+    "email": "vedantkhare24bcs0230@iiitkottayam.ac.in",
+    "name": "VEDANT GAUTAM KHARE",
+    "year": 2024,
+    "rollno": 230
+  },
+  {
+    "email": "arivazhagan22bec12@iiitkottayam.ac.in",
+    "name": "ARIVAZHAGAN R",
+    "year": 2022,
+    "rollno": 12
+  },
+  {
+    "email": "vamshikag24bcd16@iiitkottayam.ac.in",
+    "name": "VAMSHIKA G",
+    "year": 2024,
+    "rollno": 16
+  },
+  {
+    "email": "shwetayadav25bcs91@iiitkottayam.ac.in",
+    "name": "SHWETA YADAV",
+    "year": 2025,
+    "rollno": 91
+  },
+  {
+    "email": "nimmavarshit25bcd57@iiitkottayam.ac.in",
+    "name": "NIMMA VARSHIT REDDY",
+    "year": 2025,
+    "rollno": 57
+  },
+  {
+    "email": "ansh23bcs151@iiitkottayam.ac.in",
+    "name": "ANSH RASTOGI",
+    "year": 2023,
+    "rollno": 151
+  },
+  {
+    "email": "rohansatheesh25bcd26@iiitkottayam.ac.in",
+    "name": "ROHAN SATHEESH",
+    "year": 2025,
+    "rollno": 26
+  },
+  {
+    "email": "sarahsunil24bcs04@iiitkottayam.ac.in",
+    "name": "SARAH MARIAM SUNIL",
+    "year": 2024,
+    "rollno": 4
+  },
+  {
+    "email": "kevinseejo24bec39@iiitkottayam.ac.in",
+    "name": "Kevin Jose Seejo",
+    "year": 2024,
+    "rollno": 39
   },
   {
     "email": "siddarthans24bcs0147@iiitkottayam.ac.in",
@@ -174,16 +108,52 @@
     "rollno": 147
   },
   {
-    "email": "albertmartine25bcs121@iiitkottayam.ac.in",
-    "name": "ALBERT MARTINE",
-    "year": 2025,
-    "rollno": 121
+    "email": "jallu23bcs134@iiitkottayam.ac.in",
+    "name": "JALLU SATVIK",
+    "year": 2023,
+    "rollno": 134
   },
   {
-    "email": "aswin23bcd24@iiitkottayam.ac.in",
-    "name": "ASWIN PARAMES S S",
+    "email": "aashishjacob25bcs27@iiitkottayam.ac.in",
+    "name": "AASHISH S JACOB",
+    "year": 2025,
+    "rollno": 27
+  },
+  {
+    "email": "samchalissery24bcs41@iiitkottayam.ac.in",
+    "name": "SAM JOE CHALISSERY",
+    "year": 2024,
+    "rollno": 41
+  },
+  {
+    "email": "aysha23bcs183@iiitkottayam.ac.in",
+    "name": "AYSHA LINTHA",
     "year": 2023,
-    "rollno": 24
+    "rollno": 183
+  },
+  {
+    "email": "shivam23bcd42@iiitkottayam.ac.in",
+    "name": "SHIVAM KUMAR",
+    "year": 2023,
+    "rollno": 42
+  },
+  {
+    "email": "pranav25bcd62@iiitkottayam.ac.in",
+    "name": "PRANAV D",
+    "year": 2025,
+    "rollno": 62
+  },
+  {
+    "email": "saisachin25bcs140@iiitkottayam.ac.in",
+    "name": "SAI SACHIN AZMEERA",
+    "year": 2025,
+    "rollno": 140
+  },
+  {
+    "email": "noelgeorgi24bcd23@iiitkottayam.ac.in",
+    "name": "NOEL GEORGI",
+    "year": 2024,
+    "rollno": 23
   },
   {
     "email": "niranjanrajesh24bec10@iiitkottayam.ac.in",
@@ -192,52 +162,22 @@
     "rollno": 10
   },
   {
-    "email": "shlokdeshmukh24bcs0111@iiitkottayam.ac.in",
-    "name": "SHLOK DESHMUKH",
-    "year": 2024,
-    "rollno": 111
-  },
-  {
-    "email": "hariprasadk24bcd63@iiitkottayam.ac.in",
-    "name": "HARIPRASAD L K",
-    "year": 2024,
-    "rollno": 63
-  },
-  {
-    "email": "rishi25bcs24@iiitkottayam.ac.in",
-    "name": "N RISHI",
+    "email": "chitturitarun25bcs245@iiitkottayam.ac.in",
+    "name": "CHITTURI TARUN KUMAR",
     "year": 2025,
-    "rollno": 24
+    "rollno": 245
   },
   {
-    "email": "chalamallagovindh25bcs10@iiitkottayam.ac.in",
-    "name": "CHALAMALLA GOVINDH REDDY",
-    "year": 2025,
-    "rollno": 10
-  },
-  {
-    "email": "budidajatin24bcs0275@iiitkottayam.ac.in",
-    "name": "BUDIDA JATIN",
+    "email": "tanneruparitosh24bec54@iiitkottayam.ac.in",
+    "name": "TANNERU PARITOSH",
     "year": 2024,
-    "rollno": 275
+    "rollno": 54
   },
   {
-    "email": "shivamshiullas24bcs0123@iiitkottayam.ac.in",
-    "name": "SHIVAMSHI ULLAS",
+    "email": "abhishekj24bcs0212@iiitkottayam.ac.in",
+    "name": "ABHISHEK J",
     "year": 2024,
-    "rollno": 123
-  },
-  {
-    "email": "shaik23bcs212@iiitkottayam.ac.in",
-    "name": "SHAIK MOHAMAD MUSHARAFF",
-    "year": 2023,
     "rollno": 212
-  },
-  {
-    "email": "joelmeesala24bcy02@iiitkottayam.ac.in",
-    "name": "JOEL STEPHEN MEESALA",
-    "year": 2024,
-    "rollno": 2
   },
   {
     "email": "bozzireddygarihemasainath25bcs191@iiitkottayam.ac.in",
@@ -246,28 +186,10 @@
     "rollno": 191
   },
   {
-    "email": "giretharan21bcs172@iiitkottayam.ac.in",
-    "name": "GIRETHARAN S",
-    "year": 2021,
-    "rollno": 172
-  },
-  {
-    "email": "challavidya24bcs0157@iiitkottayam.ac.in",
-    "name": "CHALLA VIDYA",
-    "year": 2024,
-    "rollno": 157
-  },
-  {
-    "email": "gorantlavenkata25bcs177@iiitkottayam.ac.in",
-    "name": "GORANTLA VENKATA PRANAV KUMAR",
-    "year": 2025,
-    "rollno": 177
-  },
-  {
-    "email": "amenk24bcs0200@iiitkottayam.ac.in",
-    "name": "AMEN ROSHIN K",
-    "year": 2024,
-    "rollno": 200
+    "email": "shaik23bcs212@iiitkottayam.ac.in",
+    "name": "SHAIK MOHAMAD MUSHARAFF",
+    "year": 2023,
+    "rollno": 212
   },
   {
     "email": "kolluripraizy24bcs0108@iiitkottayam.ac.in",
@@ -282,22 +204,58 @@
     "rollno": 33
   },
   {
-    "email": "abhishekj24bcs0212@iiitkottayam.ac.in",
-    "name": "ABHISHEK J",
+    "email": "shivamshiullas24bcs0123@iiitkottayam.ac.in",
+    "name": "SHIVAMSHI ULLAS",
     "year": 2024,
-    "rollno": 212
+    "rollno": 123
   },
   {
-    "email": "harryparangimalil25bcs22@iiitkottayam.ac.in",
-    "name": "HARRY S PARANGIMALIL",
+    "email": "gorantlavenkata25bcs177@iiitkottayam.ac.in",
+    "name": "GORANTLA VENKATA PRANAV KUMAR",
     "year": 2025,
-    "rollno": 22
+    "rollno": 177
   },
   {
-    "email": "tanneruparitosh24bec54@iiitkottayam.ac.in",
-    "name": "TANNERU PARITOSH",
+    "email": "budidajatin24bcs0275@iiitkottayam.ac.in",
+    "name": "BUDIDA JATIN",
     "year": 2024,
-    "rollno": 54
+    "rollno": 275
+  },
+  {
+    "email": "giretharan21bcs172@iiitkottayam.ac.in",
+    "name": "GIRETHARAN S",
+    "year": 2021,
+    "rollno": 172
+  },
+  {
+    "email": "chalamallagovindh25bcs10@iiitkottayam.ac.in",
+    "name": "CHALAMALLA GOVINDH REDDY",
+    "year": 2025,
+    "rollno": 10
+  },
+  {
+    "email": "rishi25bcs24@iiitkottayam.ac.in",
+    "name": "N RISHI",
+    "year": 2025,
+    "rollno": 24
+  },
+  {
+    "email": "albertmartine25bcs121@iiitkottayam.ac.in",
+    "name": "ALBERT MARTINE",
+    "year": 2025,
+    "rollno": 121
+  },
+  {
+    "email": "muni23bcs123@iiitkottayam.ac.in",
+    "name": "P MUNI JYOTHI PRAKASH",
+    "year": 2023,
+    "rollno": 123
+  },
+  {
+    "email": "aswin23bcd24@iiitkottayam.ac.in",
+    "name": "ASWIN PARAMES S S",
+    "year": 2023,
+    "rollno": 24
   },
   {
     "email": "mikelbonny25bcd04@iiitkottayam.ac.in",
@@ -306,34 +264,58 @@
     "rollno": 4
   },
   {
-    "email": "vatsavaivarun25bcy24@iiitkottayam.ac.in",
-    "name": "VATSAVAI VARUN VARMA",
-    "year": 2025,
-    "rollno": 24
-  },
-  {
-    "email": "kolliparaakshara25bcs242@iiitkottayam.ac.in",
-    "name": "KOLLIPARA AKSHARA VENKATA NARASIMHA UJWALA",
-    "year": 2025,
-    "rollno": 242
-  },
-  {
-    "email": "anshulgoyal24bcs0192@iiitkottayam.ac.in",
-    "name": "ANSHUL GOYAL",
+    "email": "hariprasadk24bcd63@iiitkottayam.ac.in",
+    "name": "HARIPRASAD L K",
     "year": 2024,
-    "rollno": 192
+    "rollno": 63
   },
   {
-    "email": "jevishdas25bcy35@iiitkottayam.ac.in",
-    "name": "JEVISH",
-    "year": 2025,
-    "rollno": 35
-  },
-  {
-    "email": "siddharthsharma24bcs0317@iiitkottayam.ac.in",
-    "name": "Siddharth Sharma",
+    "email": "challavidya24bcs0157@iiitkottayam.ac.in",
+    "name": "CHALLA VIDYA",
     "year": 2024,
-    "rollno": 317
+    "rollno": 157
+  },
+  {
+    "email": "harryparangimalil25bcs22@iiitkottayam.ac.in",
+    "name": "HARRY S PARANGIMALIL",
+    "year": 2025,
+    "rollno": 22
+  },
+  {
+    "email": "banne23bcs224@iiitkottayam.ac.in",
+    "name": "BANNE DILIP KUMAR",
+    "year": 2023,
+    "rollno": 224
+  },
+  {
+    "email": "mayank23bcy52@iiitkottayam.ac.in",
+    "name": "MAYANK SURESH SONAWANE",
+    "year": 2023,
+    "rollno": 52
+  },
+  {
+    "email": "harsh23bcy10@iiitkottayam.ac.in",
+    "name": "HARSH KUMAR GOUR",
+    "year": 2023,
+    "rollno": 10
+  },
+  {
+    "email": "madakasashank25bcs188@iiitkottayam.ac.in",
+    "name": "MADAKA SASHANK",
+    "year": 2025,
+    "rollno": 188
+  },
+  {
+    "email": "devaprassad25bec19@iiitkottayam.ac.in",
+    "name": "DEVA PRASSAD S",
+    "year": 2025,
+    "rollno": 19
+  },
+  {
+    "email": "nandanakalapurayil24bec09@iiitkottayam.ac.in",
+    "name": "NANDANA S KALAPURAYIL",
+    "year": 2024,
+    "rollno": 9
   },
   {
     "email": "mohammedzahan25bcs43@iiitkottayam.ac.in",
@@ -342,34 +324,16 @@
     "rollno": 43
   },
   {
-    "email": "santhipriyan25bcs33@iiitkottayam.ac.in",
-    "name": "SANTHIPRIYAN R",
-    "year": 2025,
-    "rollno": 33
-  },
-  {
-    "email": "anjananandakumar24bcy15@iiitkottayam.ac.in",
-    "name": "ANJANA NANDAKUMAR",
-    "year": 2024,
-    "rollno": 15
-  },
-  {
-    "email": "anaghpellissery25bec02@iiitkottayam.ac.in",
-    "name": "ANAGH PELLISSERY",
-    "year": 2025,
-    "rollno": 2
-  },
-  {
     "email": "muhammedafshin25bec18@iiitkottayam.ac.in",
     "name": "MUHAMMED AFSHIN K",
     "year": 2025,
     "rollno": 18
   },
   {
-    "email": "roshan23bcs9@iiitkottayam.ac.in",
-    "name": "ROSHAN BINOJ",
-    "year": 2023,
-    "rollno": 9
+    "email": "kolliparaakshara25bcs242@iiitkottayam.ac.in",
+    "name": "KOLLIPARA AKSHARA VENKATA NARASIMHA UJWALA",
+    "year": 2025,
+    "rollno": 242
   },
   {
     "email": "sukhpreetkaur25bcd66@iiitkottayam.ac.in",
@@ -378,10 +342,28 @@
     "rollno": 66
   },
   {
-    "email": "kanishk23bcy3@iiitkottayam.ac.in",
-    "name": "KANISHK MITTAL",
-    "year": 2023,
-    "rollno": 3
+    "email": "saawanrana24bec40@iiitkottayam.ac.in",
+    "name": "SAAWAN RANA",
+    "year": 2024,
+    "rollno": 40
+  },
+  {
+    "email": "santhipriyan25bcs33@iiitkottayam.ac.in",
+    "name": "SANTHIPRIYAN R",
+    "year": 2025,
+    "rollno": 33
+  },
+  {
+    "email": "anshulgoyal24bcs0192@iiitkottayam.ac.in",
+    "name": "ANSHUL GOYAL",
+    "year": 2024,
+    "rollno": 192
+  },
+  {
+    "email": "anaghpellissery25bec02@iiitkottayam.ac.in",
+    "name": "ANAGH PELLISSERY",
+    "year": 2025,
+    "rollno": 2
   },
   {
     "email": "reddinaidu24bcs0243@iiitkottayam.ac.in",
@@ -390,16 +372,34 @@
     "rollno": 243
   },
   {
+    "email": "siddharthsharma24bcs0317@iiitkottayam.ac.in",
+    "name": "Siddharth Sharma",
+    "year": 2024,
+    "rollno": 317
+  },
+  {
     "email": "ms.tanyanagpal25bcs266@iiitkottayam.ac.in",
     "name": "MS.TANYA NAGPAL",
     "year": 2025,
     "rollno": 266
   },
   {
-    "email": "koyiladakarthik25bcs249@iiitkottayam.ac.in",
-    "name": "KOYILADA KARTHIK",
-    "year": 2025,
-    "rollno": 249
+    "email": "ganguma23bec41@iiitkottayam.ac.in",
+    "name": "GANGUMALLA CHANDRA SRINIVAS",
+    "year": 2023,
+    "rollno": 41
+  },
+  {
+    "email": "muvvalasahithi24bcs0195@iiitkottayam.ac.in",
+    "name": "MUVVALA SAHITHI",
+    "year": 2024,
+    "rollno": 195
+  },
+  {
+    "email": "lavanya23bcy65@iiitkottayam.ac.in",
+    "name": "NENAVATH LAVANYA",
+    "year": 2023,
+    "rollno": 65
   },
   {
     "email": "devarakondasathwik24bcs0263@iiitkottayam.ac.in",
@@ -408,16 +408,10 @@
     "rollno": 263
   },
   {
-    "email": "saawanrana24bec40@iiitkottayam.ac.in",
-    "name": "SAAWAN RANA",
-    "year": 2024,
-    "rollno": 40
-  },
-  {
-    "email": "mayank23bcy52@iiitkottayam.ac.in",
-    "name": "MAYANK SURESH SONAWANE",
-    "year": 2023,
-    "rollno": 52
+    "email": "vatsavaivarun25bcy24@iiitkottayam.ac.in",
+    "name": "VATSAVAI VARUN VARMA",
+    "year": 2025,
+    "rollno": 24
   },
   {
     "email": "sarthakpandey24bcy65@iiitkottayam.ac.in",
@@ -432,58 +426,76 @@
     "rollno": 41
   },
   {
-    "email": "nandanakalapurayil24bec09@iiitkottayam.ac.in",
-    "name": "NANDANA S KALAPURAYIL",
-    "year": 2024,
-    "rollno": 9
-  },
-  {
-    "email": "nandaki23bec31@iiitkottayam.ac.in",
-    "name": "NANDAKISHOR P B",
-    "year": 2023,
-    "rollno": 31
-  },
-  {
-    "email": "lavanya23bcy65@iiitkottayam.ac.in",
-    "name": "NENAVATH LAVANYA",
-    "year": 2023,
-    "rollno": 65
-  },
-  {
-    "email": "muvvalasahithi24bcs0195@iiitkottayam.ac.in",
-    "name": "MUVVALA SAHITHI",
-    "year": 2024,
-    "rollno": 195
-  },
-  {
-    "email": "ganguma23bec41@iiitkottayam.ac.in",
-    "name": "GANGUMALLA CHANDRA SRINIVAS",
-    "year": 2023,
-    "rollno": 41
-  },
-  {
-    "email": "a.sai25bcs125@iiitkottayam.ac.in",
-    "name": "A. SAI NIKHIL",
+    "email": "jevishdas25bcy35@iiitkottayam.ac.in",
+    "name": "JEVISH",
     "year": 2025,
-    "rollno": 125
+    "rollno": 35
   },
   {
-    "email": "kantamanisai25bcs189@iiitkottayam.ac.in",
-    "name": "KANTAMANI SAI SUKUMAR",
+    "email": "lol.make.your.backend.secure@iiitkottayam.ac.in",
+    "name": "LOLOLOL",
+    "year": null,
+    "rollno": null
+  },
+  {
+    "email": "anumandlareddy24bcs0295@iiitkottayam.ac.in",
+    "name": "ANUMANDLA KRISHNA BHARADWAJ REDDY",
+    "year": 2024,
+    "rollno": 295
+  },
+  {
+    "email": "konda23bcs160@iiitkottayam.ac.in",
+    "name": "KONDA TEJ AKHILESH",
+    "year": 2023,
+    "rollno": 160
+  },
+  {
+    "email": "bonthukumar24bcs0330@iiitkottayam.ac.in",
+    "name": "BONTHU BHARATH KUMAR",
+    "year": 2024,
+    "rollno": 330
+  },
+  {
+    "email": "thummalahithesh24bcs50@iiitkottayam.ac.in",
+    "name": "THUMMALA REDDY HITHESH",
+    "year": 2024,
+    "rollno": 50
+  },
+  {
+    "email": "maripally22bcs22@iiitkottayam.ac.in",
+    "name": "MARIPALLY AMOGH",
+    "year": 2022,
+    "rollno": 22
+  },
+  {
+    "email": "abhinav23bcd13@iiitkottayam.ac.in",
+    "name": "ABHINAV SHIVAKUMAR MARLINGAPLAR",
+    "year": 2023,
+    "rollno": 13
+  },
+  {
+    "email": "saraswathichandana25bcy43@iiitkottayam.ac.in",
+    "name": "SARASWATHI CHANDANA SREE",
     "year": 2025,
-    "rollno": 189
+    "rollno": 43
   },
   {
-    "email": "amalm24bcd10@iiitkottayam.ac.in",
-    "name": "AMAL SAJEEV K M",
-    "year": 2024,
-    "rollno": 10
+    "email": "maradan23bcs216@iiitkottayam.ac.in",
+    "name": "MARADANA KALYAN KOUSIK",
+    "year": 2023,
+    "rollno": 216
   },
   {
-    "email": "krishnadabar24bcs0293@iiitkottayam.ac.in",
-    "name": "Krishna Dabar",
+    "email": "fathimap24bec62@iiitkottayam.ac.in",
+    "name": "FATHIMA SHEMAREEN K P",
     "year": 2024,
-    "rollno": 293
+    "rollno": 62
+  },
+  {
+    "email": "sammithkrishna25bcd49@iiitkottayam.ac.in",
+    "name": "SAMMITH KRISHNA JALLURI",
+    "year": 2025,
+    "rollno": 49
   },
   {
     "email": "hamdanharish25bcs207@iiitkottayam.ac.in",
@@ -498,40 +510,22 @@
     "rollno": 16
   },
   {
+    "email": "amalm24bcd10@iiitkottayam.ac.in",
+    "name": "AMAL SAJEEV K M",
+    "year": 2024,
+    "rollno": 10
+  },
+  {
+    "email": "nishadhubert25bcs52@iiitkottayam.ac.in",
+    "name": "NISHAD HUBERT SATHEESH KUMAR",
+    "year": 2025,
+    "rollno": 52
+  },
+  {
     "email": "anushka23bcs47@iiitkottayam.ac.in",
     "name": "ANUSHKA KISHOR NIKAM",
     "year": 2023,
     "rollno": 47
-  },
-  {
-    "email": "tenkanichandan25bec54@iiitkottayam.ac.in",
-    "name": "TENKANI CHANDAN SRIKAR",
-    "year": 2025,
-    "rollno": 54
-  },
-  {
-    "email": "abhinav23bcd13@iiitkottayam.ac.in",
-    "name": "ABHINAV SHIVAKUMAR MARLINGAPLAR",
-    "year": 2023,
-    "rollno": 13
-  },
-  {
-    "email": "konda23bcs160@iiitkottayam.ac.in",
-    "name": "KONDA TEJ AKHILESH",
-    "year": 2023,
-    "rollno": 160
-  },
-  {
-    "email": "sajishvarghese24bcs01@iiitkottayam.ac.in",
-    "name": "SAJISH SAJAN VARGHESE",
-    "year": 2024,
-    "rollno": 1
-  },
-  {
-    "email": "bonthukumar24bcs0330@iiitkottayam.ac.in",
-    "name": "BONTHU BHARATH KUMAR",
-    "year": 2024,
-    "rollno": 330
   },
   {
     "email": "moulishvarmaa25bcs02@iiitkottayam.ac.in",
@@ -540,16 +534,16 @@
     "rollno": 2
   },
   {
-    "email": "maripally22bcs22@iiitkottayam.ac.in",
-    "name": "MARIPALLY AMOGH",
+    "email": "mukundh22bcs100@iiitkottayam.ac.in",
+    "name": "P L MUKUNDH",
     "year": 2022,
-    "rollno": 22
+    "rollno": 100
   },
   {
-    "email": "fathimap24bec62@iiitkottayam.ac.in",
-    "name": "FATHIMA SHEMAREEN K P",
-    "year": 2024,
-    "rollno": 62
+    "email": "a.sai25bcs125@iiitkottayam.ac.in",
+    "name": "A. SAI NIKHIL",
+    "year": 2025,
+    "rollno": 125
   },
   {
     "email": "nishanthm24bec23@iiitkottayam.ac.in",
@@ -558,22 +552,10 @@
     "rollno": 23
   },
   {
-    "email": "thummalahithesh24bcs50@iiitkottayam.ac.in",
-    "name": "THUMMALA REDDY HITHESH",
+    "email": "krishnadabar24bcs0293@iiitkottayam.ac.in",
+    "name": "Krishna Dabar",
     "year": 2024,
-    "rollno": 50
-  },
-  {
-    "email": "maradan23bcs216@iiitkottayam.ac.in",
-    "name": "MARADANA KALYAN KOUSIK",
-    "year": 2023,
-    "rollno": 216
-  },
-  {
-    "email": "saraswathichandana25bcy43@iiitkottayam.ac.in",
-    "name": "SARASWATHI CHANDANA SREE",
-    "year": 2025,
-    "rollno": 43
+    "rollno": 293
   },
   {
     "email": "kavivarman25bec50@iiitkottayam.ac.in",
@@ -588,58 +570,10 @@
     "rollno": 241
   },
   {
-    "email": "oguripujitha25bcs250@iiitkottayam.ac.in",
-    "name": "OGURI PUJITHA",
+    "email": "kantamanisai25bcs189@iiitkottayam.ac.in",
+    "name": "KANTAMANI SAI SUKUMAR",
     "year": 2025,
-    "rollno": 250
-  },
-  {
-    "email": "mukundh22bcs100@iiitkottayam.ac.in",
-    "name": "P L MUKUNDH",
-    "year": 2022,
-    "rollno": 100
-  },
-  {
-    "email": "balla.neelima25bcy04@iiitkottayam.ac.in",
-    "name": "BALLA.NEELIMA",
-    "year": 2025,
-    "rollno": 4
-  },
-  {
-    "email": "vidhuunnikrishnan25bcd21@iiitkottayam.ac.in",
-    "name": "VIDHU UNNIKRISHNAN",
-    "year": 2025,
-    "rollno": 21
-  },
-  {
-    "email": "hulke23bcd26@iiitkottayam.ac.in",
-    "name": "HULKE SUMIT",
-    "year": 2023,
-    "rollno": 26
-  },
-  {
-    "email": "piyushkannaujiya24bcs0219@iiitkottayam.ac.in",
-    "name": "Piyush kannaujiya",
-    "year": 2024,
-    "rollno": 219
-  },
-  {
-    "email": "adityaa24bcs38@iiitkottayam.ac.in",
-    "name": "ADITYA A",
-    "year": 2024,
-    "rollno": 38
-  },
-  {
-    "email": "abhinav22bcs19@iiitkottayam.ac.in",
-    "name": "ABHINAV BHAGWAT",
-    "year": 2022,
-    "rollno": 19
-  },
-  {
-    "email": "abinjose25bcs240@iiitkottayam.ac.in",
-    "name": "ABIN JOSE JOSEPH",
-    "year": 2025,
-    "rollno": 240
+    "rollno": 189
   },
   {
     "email": "fizamariyam25bcy70@iiitkottayam.ac.in",
@@ -648,40 +582,10 @@
     "rollno": 70
   },
   {
-    "email": "mittareddy24bcs0247@iiitkottayam.ac.in",
-    "name": "MITTA POOJITHA REDDY",
+    "email": "juliajiju24bcs08@iiitkottayam.ac.in",
+    "name": "JULIA ALICE JIJU",
     "year": 2024,
-    "rollno": 247
-  },
-  {
-    "email": "pranavm24bcs0126@iiitkottayam.ac.in",
-    "name": "PRANAV M",
-    "year": 2024,
-    "rollno": 126
-  },
-  {
-    "email": "shyamsundar25bcy47@iiitkottayam.ac.in",
-    "name": "SHYAMSUNDAR M",
-    "year": 2025,
-    "rollno": 47
-  },
-  {
-    "email": "chintapallisriram25bcs261@iiitkottayam.ac.in",
-    "name": "CHINTAPALLI SRIRAM",
-    "year": 2025,
-    "rollno": 261
-  },
-  {
-    "email": "mohammedzakariya25bcs42@iiitkottayam.ac.in",
-    "name": "MOHAMMED ZAKARIYA",
-    "year": 2025,
-    "rollno": 42
-  },
-  {
-    "email": "amal23bcs156@iiitkottayam.ac.in",
-    "name": "AMAL BYJU DEV",
-    "year": 2023,
-    "rollno": 156
+    "rollno": 8
   },
   {
     "email": "aryan23bcd47@iiitkottayam.ac.in",
@@ -690,16 +594,40 @@
     "rollno": 47
   },
   {
-    "email": "prakshithapradeep24bcs0163@iiitkottayam.ac.in",
-    "name": "PRAKSHITHA PRADEEP",
-    "year": 2024,
-    "rollno": 163
-  },
-  {
     "email": "lestlinrobins24bcs60@iiitkottayam.ac.in",
     "name": "LESTLIN ROBINS",
     "year": 2024,
     "rollno": 60
+  },
+  {
+    "email": "vidhuunnikrishnan25bcd21@iiitkottayam.ac.in",
+    "name": "VIDHU UNNIKRISHNAN",
+    "year": 2025,
+    "rollno": 21
+  },
+  {
+    "email": "mahalakshmi25bec22@iiitkottayam.ac.in",
+    "name": "MAHALAKSHMI K",
+    "year": 2025,
+    "rollno": 22
+  },
+  {
+    "email": "dharunkarthikeyan25bcs147@iiitkottayam.ac.in",
+    "name": "DHARUN KARTHIKEYAN S",
+    "year": 2025,
+    "rollno": 147
+  },
+  {
+    "email": "abhinav22bcs19@iiitkottayam.ac.in",
+    "name": "ABHINAV BHAGWAT",
+    "year": 2022,
+    "rollno": 19
+  },
+  {
+    "email": "prakshithapradeep24bcs0163@iiitkottayam.ac.in",
+    "name": "PRAKSHITHA PRADEEP",
+    "year": 2024,
+    "rollno": 163
   },
   {
     "email": "tarunchaudhary25bcs301@iiitkottayam.ac.in",
@@ -714,10 +642,64 @@
     "rollno": 72
   },
   {
+    "email": "abinjose25bcs240@iiitkottayam.ac.in",
+    "name": "ABIN JOSE JOSEPH",
+    "year": 2025,
+    "rollno": 240
+  },
+  {
+    "email": "mittareddy24bcs0247@iiitkottayam.ac.in",
+    "name": "MITTA POOJITHA REDDY",
+    "year": 2024,
+    "rollno": 247
+  },
+  {
+    "email": "shyamsundar25bcy47@iiitkottayam.ac.in",
+    "name": "SHYAMSUNDAR M",
+    "year": 2025,
+    "rollno": 47
+  },
+  {
+    "email": "hulke23bcd26@iiitkottayam.ac.in",
+    "name": "HULKE SUMIT",
+    "year": 2023,
+    "rollno": 26
+  },
+  {
+    "email": "mohammedzakariya25bcs42@iiitkottayam.ac.in",
+    "name": "MOHAMMED ZAKARIYA",
+    "year": 2025,
+    "rollno": 42
+  },
+  {
+    "email": "chintapallisriram25bcs261@iiitkottayam.ac.in",
+    "name": "CHINTAPALLI SRIRAM",
+    "year": 2025,
+    "rollno": 261
+  },
+  {
+    "email": "kiranj24bec16@iiitkottayam.ac.in",
+    "name": "KIRAN J",
+    "year": 2024,
+    "rollno": 16
+  },
+  {
+    "email": "pranavm24bcs0126@iiitkottayam.ac.in",
+    "name": "PRANAV M",
+    "year": 2024,
+    "rollno": 126
+  },
+  {
     "email": "aryan23bcd12@iiitkottayam.ac.in",
     "name": "ARYAN RAJU PASALWAD",
     "year": 2023,
     "rollno": 12
+  },
+  {
+    "email": "balla.neelima25bcy04@iiitkottayam.ac.in",
+    "name": "BALLA.NEELIMA",
+    "year": 2025,
+    "rollno": 4
   },
   {
     "email": "gorrelahithesh25bcs106@iiitkottayam.ac.in",
@@ -726,100 +708,16 @@
     "rollno": 106
   },
   {
-    "email": "mahalakshmi25bec22@iiitkottayam.ac.in",
-    "name": "MAHALAKSHMI K",
-    "year": 2025,
-    "rollno": 22
-  },
-  {
     "email": "abdulbasith25bcs32@iiitkottayam.ac.in",
     "name": "T A ABDUL BASITH",
     "year": 2025,
     "rollno": 32
   },
   {
-    "email": "vijay23bcs7@iiitkottayam.ac.in",
-    "name": "VIJAY VENKAT J",
+    "email": "sadhana23bec1@iiitkottayam.ac.in",
+    "name": "SADHANA THIRUMANGAI KALIDOSS",
     "year": 2023,
-    "rollno": 7
-  },
-  {
-    "email": "rinshashereef25bcs158@iiitkottayam.ac.in",
-    "name": "RINSHA SHEREEF",
-    "year": 2025,
-    "rollno": 158
-  },
-  {
-    "email": "ameyprasad24bcs36@iiitkottayam.ac.in",
-    "name": "AMEY PRASAD",
-    "year": 2024,
-    "rollno": 36
-  },
-  {
-    "email": "aswin23bcs12@iiitkottayam.ac.in",
-    "name": "ASWIN M",
-    "year": 2023,
-    "rollno": 12
-  },
-  {
-    "email": "ashinantony25bcs28@iiitkottayam.ac.in",
-    "name": "ASHIN ANTONY",
-    "year": 2025,
-    "rollno": 28
-  },
-  {
-    "email": "kethavathtejasri24bcs0153@iiitkottayam.ac.in",
-    "name": "KETHAVATH TEJASRI",
-    "year": 2024,
-    "rollno": 153
-  },
-  {
-    "email": "pavan23bcy2@iiitkottayam.ac.in",
-    "name": "M PAVAN KUMAR",
-    "year": 2023,
-    "rollno": 2
-  },
-  {
-    "email": "banavathtarunnaik25bec63@iiitkottayam.ac.in",
-    "name": "BANAVATH TARUNNAIK",
-    "year": 2025,
-    "rollno": 63
-  },
-  {
-    "email": "pujari22bcs230@iiitkottayam.ac.in",
-    "name": "PUJARI JASHWANTH CHOWHAN",
-    "year": 2022,
-    "rollno": 230
-  },
-  {
-    "email": "abin23bcs84@iiitkottayam.ac.in",
-    "name": "ABIN V TOMY",
-    "year": 2023,
-    "rollno": 84
-  },
-  {
-    "email": "immidisettiparnika25bcd67@iiitkottayam.ac.in",
-    "name": "IMMIDISETTI PARNIKA SRI LAKSHMI SUVARNA",
-    "year": 2025,
-    "rollno": 67
-  },
-  {
-    "email": "kothapallishanmukh25bcy21@iiitkottayam.ac.in",
-    "name": "KOTHAPALLI SHANMUKH SRINIVAS",
-    "year": 2025,
-    "rollno": 21
-  },
-  {
-    "email": "elhan23bcs119@iiitkottayam.ac.in",
-    "name": "ELHAN B THOMAS",
-    "year": 2023,
-    "rollno": 119
-  },
-  {
-    "email": "prabhakardwivedi25bcs317@iiitkottayam.ac.in",
-    "name": "PRABHAKAR DWIVEDI",
-    "year": 2025,
-    "rollno": 317
+    "rollno": 1
   },
   {
     "email": "sriteja23bcs185@iiitkottayam.ac.in",
@@ -834,22 +732,10 @@
     "rollno": 23
   },
   {
-    "email": "johnstonpurathoor25bcd09@iiitkottayam.ac.in",
-    "name": "JOHNSTON PURATHOOR SAJI",
+    "email": "banavathtarunnaik25bec63@iiitkottayam.ac.in",
+    "name": "BANAVATH TARUNNAIK",
     "year": 2025,
-    "rollno": 9
-  },
-  {
-    "email": "divyanshnagar24bcs39@iiitkottayam.ac.in",
-    "name": "DIVYANSH NAGAR",
-    "year": 2024,
-    "rollno": 39
-  },
-  {
-    "email": "samanwayam24bec20@iiitkottayam.ac.in",
-    "name": "SAMANWAYA M",
-    "year": 2024,
-    "rollno": 20
+    "rollno": 63
   },
   {
     "email": "gauthams24bcs0104@iiitkottayam.ac.in",
@@ -858,10 +744,22 @@
     "rollno": 104
   },
   {
-    "email": "bonkuri23bcs176@iiitkottayam.ac.in",
-    "name": "BONKURI MANIRAJ",
-    "year": 2023,
-    "rollno": 176
+    "email": "pujari22bcs230@iiitkottayam.ac.in",
+    "name": "PUJARI JASHWANTH CHOWHAN",
+    "year": 2022,
+    "rollno": 230
+  },
+  {
+    "email": "divyanshnagar24bcs39@iiitkottayam.ac.in",
+    "name": "DIVYANSH NAGAR",
+    "year": 2024,
+    "rollno": 39
+  },
+  {
+    "email": "ameyprasad24bcs36@iiitkottayam.ac.in",
+    "name": "AMEY PRASAD",
+    "year": 2024,
+    "rollno": 36
   },
   {
     "email": "badagalakumar24bcs0160@iiitkottayam.ac.in",
@@ -870,16 +768,130 @@
     "rollno": 160
   },
   {
-    "email": "sadhana23bec1@iiitkottayam.ac.in",
-    "name": "SADHANA THIRUMANGAI KALIDOSS",
-    "year": 2023,
-    "rollno": 1
+    "email": "prabhakardwivedi25bcs317@iiitkottayam.ac.in",
+    "name": "PRABHAKAR DWIVEDI",
+    "year": 2025,
+    "rollno": 317
   },
   {
-    "email": "nikhila24bcs0176@iiitkottayam.ac.in",
-    "name": "NIKHIL A",
+    "email": "lerissalinson25bcs96@iiitkottayam.ac.in",
+    "name": "LERISSA LINSON",
+    "year": 2025,
+    "rollno": 96
+  },
+  {
+    "email": "kethavathtejasri24bcs0153@iiitkottayam.ac.in",
+    "name": "KETHAVATH TEJASRI",
     "year": 2024,
+    "rollno": 153
+  },
+  {
+    "email": "vijay23bcs7@iiitkottayam.ac.in",
+    "name": "VIJAY VENKAT J",
+    "year": 2023,
+    "rollno": 7
+  },
+  {
+    "email": "rinshashereef25bcs158@iiitkottayam.ac.in",
+    "name": "RINSHA SHEREEF",
+    "year": 2025,
+    "rollno": 158
+  },
+  {
+    "email": "elhan23bcs119@iiitkottayam.ac.in",
+    "name": "ELHAN B THOMAS",
+    "year": 2023,
+    "rollno": 119
+  },
+  {
+    "email": "kothapallishanmukh25bcy21@iiitkottayam.ac.in",
+    "name": "KOTHAPALLI SHANMUKH SRINIVAS",
+    "year": 2025,
+    "rollno": 21
+  },
+  {
+    "email": "abin23bcs84@iiitkottayam.ac.in",
+    "name": "ABIN V TOMY",
+    "year": 2023,
+    "rollno": 84
+  },
+  {
+    "email": "immidisettiparnika25bcd67@iiitkottayam.ac.in",
+    "name": "IMMIDISETTI PARNIKA SRI LAKSHMI SUVARNA",
+    "year": 2025,
+    "rollno": 67
+  },
+  {
+    "email": "bonkuri23bcs176@iiitkottayam.ac.in",
+    "name": "BONKURI MANIRAJ",
+    "year": 2023,
     "rollno": 176
+  },
+  {
+    "email": "aswin23bcs12@iiitkottayam.ac.in",
+    "name": "ASWIN M",
+    "year": 2023,
+    "rollno": 12
+  },
+  {
+    "email": "johnstonpurathoor25bcd09@iiitkottayam.ac.in",
+    "name": "JOHNSTON PURATHOOR SAJI",
+    "year": 2025,
+    "rollno": 9
+  },
+  {
+    "email": "pavan23bcy2@iiitkottayam.ac.in",
+    "name": "M PAVAN KUMAR",
+    "year": 2023,
+    "rollno": 2
+  },
+  {
+    "email": "ashinantony25bcs28@iiitkottayam.ac.in",
+    "name": "ASHIN ANTONY",
+    "year": 2025,
+    "rollno": 28
+  },
+  {
+    "email": "samanwayam24bec20@iiitkottayam.ac.in",
+    "name": "SAMANWAYA M",
+    "year": 2024,
+    "rollno": 20
+  },
+  {
+    "email": "shaunsebastian24bec25@iiitkottayam.ac.in",
+    "name": "Shaun George Sebastian",
+    "year": 2024,
+    "rollno": 25
+  },
+  {
+    "email": "fathimarasha25bcs335@iiitkottayam.ac.in",
+    "name": "FATHIMA RASHA E P",
+    "year": 2025,
+    "rollno": 335
+  },
+  {
+    "email": "gatikaadithya25bcs234@iiitkottayam.ac.in",
+    "name": "GATIKA ADITHYA",
+    "year": 2025,
+    "rollno": 234
+  },
+  {
+    "email": "kishlaykunal25bcy62@iiitkottayam.ac.in",
+    "name": "KISHLAY KUNAL",
+    "year": 2025,
+    "rollno": 62
+  },
+  {
+    "email": "prardhanaanil24bcd31@iiitkottayam.ac.in",
+    "name": "PRARDHANA ANIL",
+    "year": 2024,
+    "rollno": 31
+  },
+  {
+    "email": "abhijithambadi25bcs346@iiitkottayam.ac.in",
+    "name": "ABHIJITH AMBADI",
+    "year": 2025,
+    "rollno": 346
   },
   {
     "email": "balemarthyyagna25bec26@iiitkottayam.ac.in",
@@ -888,27 +900,15 @@
     "rollno": 26
   },
   {
-    "email": "abhayprasad24bcs32@iiitkottayam.ac.in",
-    "name": "ABHAY PRASAD",
-    "year": 2024,
-    "rollno": 32
-  },
-  {
-    "email": "zewin23bcs63@iiitkottayam.ac.in",
-    "name": "ZEWIN JOS KATTIKARAN",
+    "email": "sayan23bcy6@iiitkottayam.ac.in",
+    "name": "SAYAN SINHA",
     "year": 2023,
-    "rollno": 63
+    "rollno": 6
   },
   {
     "email": "nejadihsan25bcs84@iiitkottayam.ac.in",
     "name": "NEJAD IHSAN A N",
     "year": 2025,
-    "rollno": 84
-  },
-  {
-    "email": "anjithl24bcs84@iiitkottayam.ac.in",
-    "name": "ANJITH KRISHNA A L",
-    "year": 2024,
     "rollno": 84
   },
   {
@@ -918,82 +918,10 @@
     "rollno": 28
   },
   {
-    "email": "gatikaadithya25bcs234@iiitkottayam.ac.in",
-    "name": "GATIKA ADITHYA",
-    "year": 2025,
-    "rollno": 234
-  },
-  {
-    "email": "aileenvarghese25bcy30@iiitkottayam.ac.in",
-    "name": "AILEEN VARGHESE GEORGE",
-    "year": 2025,
-    "rollno": 30
-  },
-  {
-    "email": "jahanaansar24bcd20@iiitkottayam.ac.in",
-    "name": "JAHANA ANSAR",
+    "email": "somensagar24bcs0265@iiitkottayam.ac.in",
+    "name": "SOMEN SAGAR",
     "year": 2024,
-    "rollno": 20
-  },
-  {
-    "email": "abhijithambadi25bcs346@iiitkottayam.ac.in",
-    "name": "ABHIJITH AMBADI",
-    "year": 2025,
-    "rollno": 346
-  },
-  {
-    "email": "ritisha23bec14@iiitkottayam.ac.in",
-    "name": "RITISHAA ANAND",
-    "year": 2023,
-    "rollno": 14
-  },
-  {
-    "email": "prardhanaanil24bcd31@iiitkottayam.ac.in",
-    "name": "PRARDHANA ANIL",
-    "year": 2024,
-    "rollno": 31
-  },
-  {
-    "email": "fathimarasha25bcs335@iiitkottayam.ac.in",
-    "name": "FATHIMA RASHA E P",
-    "year": 2025,
-    "rollno": 335
-  },
-  {
-    "email": "kishlaykunal25bcy62@iiitkottayam.ac.in",
-    "name": "KISHLAY KUNAL",
-    "year": 2025,
-    "rollno": 62
-  },
-  {
-    "email": "sayan23bcy6@iiitkottayam.ac.in",
-    "name": "SAYAN SINHA",
-    "year": 2023,
-    "rollno": 6
-  },
-  {
-    "email": "adil23bcy5@iiitkottayam.ac.in",
-    "name": "ADIL OMAR CHOZHIMADAM",
-    "year": 2023,
-    "rollno": 5
-  },
-  {
-    "email": "namitsa23bcd41@iiitkottayam.ac.in",
-    "name": "NAMITSAI SRINIVASARAO VADDEMPUDI",
-    "year": 2023,
-    "rollno": 41
-  },
-  {
-    "email": "sharma23bcs50@iiitkottayam.ac.in",
-    "name": "SHARMA RAGHAV SANDEEP",
-    "year": 2023,
-    "rollno": 50
-  },
-  {
-    "email": "vaishnavimenon25bcd48@iiitkottayam.ac.in",
-    "name": "VAISHNAVI MENON",
-    "year": 2025,
-    "rollno": 48
+    "rollno": 265
   },
   {
     "email": "aditya23bcs194@iiitkottayam.ac.in",
@@ -1002,16 +930,58 @@
     "rollno": 194
   },
   {
-    "email": "christi23bcd19@iiitkottayam.ac.in",
-    "name": "CHRISTINE MARY PAUL",
+    "email": "adil23bcy5@iiitkottayam.ac.in",
+    "name": "ADIL OMAR CHOZHIMADAM",
     "year": 2023,
-    "rollno": 19
+    "rollno": 5
   },
   {
-    "email": "gugulot23bcy31@iiitkottayam.ac.in",
-    "name": "GUGULOTHU BHASKAR NAIK",
+    "email": "ritisha23bec14@iiitkottayam.ac.in",
+    "name": "RITISHAA ANAND",
     "year": 2023,
-    "rollno": 31
+    "rollno": 14
+  },
+  {
+    "email": "namitsa23bcd41@iiitkottayam.ac.in",
+    "name": "NAMITSAI SRINIVASARAO VADDEMPUDI",
+    "year": 2023,
+    "rollno": 41
+  },
+  {
+    "email": "vaishnavimenon25bcd48@iiitkottayam.ac.in",
+    "name": "VAISHNAVI MENON",
+    "year": 2025,
+    "rollno": 48
+  },
+  {
+    "email": "sharma23bcs50@iiitkottayam.ac.in",
+    "name": "SHARMA RAGHAV SANDEEP",
+    "year": 2023,
+    "rollno": 50
+  },
+  {
+    "email": "anjithl24bcs84@iiitkottayam.ac.in",
+    "name": "ANJITH KRISHNA A L",
+    "year": 2024,
+    "rollno": 84
+  },
+  {
+    "email": "abhayprasad24bcs32@iiitkottayam.ac.in",
+    "name": "ABHAY PRASAD",
+    "year": 2024,
+    "rollno": 32
+  },
+  {
+    "email": "jahanaansar24bcd20@iiitkottayam.ac.in",
+    "name": "JAHANA ANSAR",
+    "year": 2024,
+    "rollno": 20
+  },
+  {
+    "email": "nikhila24bcs0176@iiitkottayam.ac.in",
+    "name": "NIKHIL A",
+    "year": 2024,
+    "rollno": 176
   },
   {
     "email": "harshitsharma25bcs195@iiitkottayam.ac.in",
@@ -1020,52 +990,16 @@
     "rollno": 195
   },
   {
-    "email": "yashwanths24bcs0264@iiitkottayam.ac.in",
-    "name": "YASHWANTH S",
-    "year": 2024,
-    "rollno": 264
-  },
-  {
-    "email": "varmasurendrakumar24bcs94@iiitkottayam.ac.in",
-    "name": "Varma Tejas - IIITK",
-    "year": 2024,
-    "rollno": 94
-  },
-  {
-    "email": "bodarahul24bec14@iiitkottayam.ac.in",
-    "name": "BODA RAHUL",
-    "year": 2024,
-    "rollno": 14
-  },
-  {
-    "email": "kilari23bcs157@iiitkottayam.ac.in",
-    "name": "KILARI VARSHITH",
+    "email": "gugulot23bcy31@iiitkottayam.ac.in",
+    "name": "GUGULOTHU BHASKAR NAIK",
     "year": 2023,
-    "rollno": 157
+    "rollno": 31
   },
   {
-    "email": "ebinpaul25bec45@iiitkottayam.ac.in",
-    "name": "EBIN K PAUL",
+    "email": "alenarappurayil25bcs06@iiitkottayam.ac.in",
+    "name": "ALEN ARAPPURAYIL ALEX",
     "year": 2025,
-    "rollno": 45
-  },
-  {
-    "email": "kandulaharsha25bcs14@iiitkottayam.ac.in",
-    "name": "KANDULA HARSHA VARDHAN",
-    "year": 2025,
-    "rollno": 14
-  },
-  {
-    "email": "indupur23bcd21@iiitkottayam.ac.in",
-    "name": "INDUPURU VENKAT JASWANTH",
-    "year": 2023,
-    "rollno": 21
-  },
-  {
-    "email": "shreysingh25bcy52@iiitkottayam.ac.in",
-    "name": "SHREY SINGH",
-    "year": 2025,
-    "rollno": 52
+    "rollno": 6
   },
   {
     "email": "uttarwar22bcs193@iiitkottayam.ac.in",
@@ -1074,10 +1008,22 @@
     "rollno": 193
   },
   {
-    "email": "akaashanderson24bcs0114@iiitkottayam.ac.in",
-    "name": "AKAASH ANDERSON",
+    "email": "tanmaymalvi24bcs62@iiitkottayam.ac.in",
+    "name": "Tanmay Malvi",
     "year": 2024,
-    "rollno": 114
+    "rollno": 62
+  },
+  {
+    "email": "kelavathlakshmi25bcy19@iiitkottayam.ac.in",
+    "name": "KELAVATH LAKSHMI NARASIMHA NAIK",
+    "year": 2025,
+    "rollno": 19
+  },
+  {
+    "email": "christi23bcd19@iiitkottayam.ac.in",
+    "name": "CHRISTINE MARY PAUL",
+    "year": 2023,
+    "rollno": 19
   },
   {
     "email": "mishalsabu24bcs0214@iiitkottayam.ac.in",
@@ -1086,16 +1032,16 @@
     "rollno": 214
   },
   {
-    "email": "charitha23bcy13@iiitkottayam.ac.in",
-    "name": "V CHARITHA",
+    "email": "kilari23bcs157@iiitkottayam.ac.in",
+    "name": "KILARI VARSHITH",
     "year": 2023,
-    "rollno": 13
+    "rollno": 157
   },
   {
-    "email": "chandakalasya25bcs290@iiitkottayam.ac.in",
-    "name": "CHANDAKA LASYA",
-    "year": 2025,
-    "rollno": 290
+    "email": "indupur23bcd21@iiitkottayam.ac.in",
+    "name": "INDUPURU VENKAT JASWANTH",
+    "year": 2023,
+    "rollno": 21
   },
   {
     "email": "polavarapudhanyata25bcs173@iiitkottayam.ac.in",
@@ -1104,22 +1050,22 @@
     "rollno": 173
   },
   {
-    "email": "vanamasneha25bcs179@iiitkottayam.ac.in",
-    "name": "VANAMA SNEHA",
+    "email": "charitha23bcy13@iiitkottayam.ac.in",
+    "name": "V CHARITHA",
+    "year": 2023,
+    "rollno": 13
+  },
+  {
+    "email": "bodarahul24bec14@iiitkottayam.ac.in",
+    "name": "BODA RAHUL",
+    "year": 2024,
+    "rollno": 14
+  },
+  {
+    "email": "chandakalasya25bcs290@iiitkottayam.ac.in",
+    "name": "CHANDAKA LASYA",
     "year": 2025,
-    "rollno": 179
-  },
-  {
-    "email": "shaunsebastian24bec25@iiitkottayam.ac.in",
-    "name": "Shaun George Sebastian",
-    "year": 2024,
-    "rollno": 25
-  },
-  {
-    "email": "darapaneniteja24bec34@iiitkottayam.ac.in",
-    "name": "DARAPANENI ASHWIN TEJA",
-    "year": 2024,
-    "rollno": 34
+    "rollno": 290
   },
   {
     "email": "abhishekavinash25bcs182@iiitkottayam.ac.in",
@@ -1134,22 +1080,40 @@
     "rollno": 174
   },
   {
-    "email": "shubhanshugothwal25bcs320@iiitkottayam.ac.in",
-    "name": "SHUBHANSHU GOTHWAL",
-    "year": 2025,
-    "rollno": 320
-  },
-  {
-    "email": "pavanap24bcs58@iiitkottayam.ac.in",
-    "name": "PAVANA P",
+    "email": "varmasurendrakumar24bcs94@iiitkottayam.ac.in",
+    "name": "Varma Tejas - IIITK",
     "year": 2024,
-    "rollno": 58
+    "rollno": 94
   },
   {
-    "email": "abdulmalik25bcd50@iiitkottayam.ac.in",
-    "name": "ABDUL MALIK A V",
+    "email": "kandulaharsha25bcs14@iiitkottayam.ac.in",
+    "name": "KANDULA HARSHA VARDHAN",
     "year": 2025,
-    "rollno": 50
+    "rollno": 14
+  },
+  {
+    "email": "yashwanths24bcs0264@iiitkottayam.ac.in",
+    "name": "YASHWANTH S",
+    "year": 2024,
+    "rollno": 264
+  },
+  {
+    "email": "shreysingh25bcy52@iiitkottayam.ac.in",
+    "name": "SHREY SINGH",
+    "year": 2025,
+    "rollno": 52
+  },
+  {
+    "email": "ebinpaul25bec45@iiitkottayam.ac.in",
+    "name": "EBIN K PAUL",
+    "year": 2025,
+    "rollno": 45
+  },
+  {
+    "email": "alex@iiitkottayam.ac.in",
+    "name": "Alex Gijo",
+    "year": null,
+    "rollno": null
   },
   {
     "email": "minsara25bcs03@iiitkottayam.ac.in",
@@ -1158,22 +1122,34 @@
     "rollno": 3
   },
   {
-    "email": "shivkarthiksuresh24bcs92@iiitkottayam.ac.in",
-    "name": "SHIVKARTHIK SURESH",
-    "year": 2024,
-    "rollno": 92
-  },
-  {
     "email": "sudabat23bcs130@iiitkottayam.ac.in",
     "name": "SUDABATHULA HEMA",
     "year": 2023,
     "rollno": 130
   },
   {
-    "email": "harinis24bec04@iiitkottayam.ac.in",
-    "name": "HARINI KANNATHAL S",
+    "email": "rithunath25bcy18@iiitkottayam.ac.in",
+    "name": "N M RITHUNATH",
+    "year": 2025,
+    "rollno": 18
+  },
+  {
+    "email": "athilmubarak24bec26@iiitkottayam.ac.in",
+    "name": "Athil Mubarak",
     "year": 2024,
-    "rollno": 4
+    "rollno": 26
+  },
+  {
+    "email": "shivkarthiksuresh24bcs92@iiitkottayam.ac.in",
+    "name": "SHIVKARTHIK SURESH",
+    "year": 2024,
+    "rollno": 92
+  },
+  {
+    "email": "kourvakisingh24bcs0121@iiitkottayam.ac.in",
+    "name": "KOURVAKI SINGH",
+    "year": 2024,
+    "rollno": 121
   },
   {
     "email": "anikeths24bcs49@iiitkottayam.ac.in",
@@ -1200,10 +1176,10 @@
     "rollno": 48
   },
   {
-    "email": "jyothikap24bcs37@iiitkottayam.ac.in",
-    "name": "JYOTHIKA A P",
+    "email": "piyushkannaujiya24bcs0219@iiitkottayam.ac.in",
+    "name": "Piyush kannaujiya",
     "year": 2024,
-    "rollno": 37
+    "rollno": 219
   },
   {
     "email": "jyothis23bcs16@iiitkottayam.ac.in",
@@ -1224,34 +1200,28 @@
     "rollno": 321
   },
   {
-    "email": "ramdasdnyaneshwar25bcs86@iiitkottayam.ac.in",
-    "name": "RAMDAS DNYANESHWAR HARALE",
+    "email": "abdulmalik25bcd50@iiitkottayam.ac.in",
+    "name": "ABDUL MALIK A V",
     "year": 2025,
-    "rollno": 86
+    "rollno": 50
   },
   {
-    "email": "athilmubarak24bec26@iiitkottayam.ac.in",
-    "name": "Athil Mubarak",
+    "email": "harinis24bec04@iiitkottayam.ac.in",
+    "name": "HARINI KANNATHAL S",
     "year": 2024,
-    "rollno": 26
+    "rollno": 4
   },
   {
-    "email": "rithunath25bcy18@iiitkottayam.ac.in",
-    "name": "N M RITHUNATH",
+    "email": "shubhanshugothwal25bcs320@iiitkottayam.ac.in",
+    "name": "SHUBHANSHU GOTHWAL",
     "year": 2025,
-    "rollno": 18
+    "rollno": 320
   },
   {
-    "email": "kourvakisingh24bcs0121@iiitkottayam.ac.in",
-    "name": "KOURVAKI SINGH",
+    "email": "pavanap24bcs58@iiitkottayam.ac.in",
+    "name": "PAVANA P",
     "year": 2024,
-    "rollno": 121
-  },
-  {
-    "email": "simon22bcs219@iiitkottayam.ac.in",
-    "name": "GUDA SIMON SHUBHAKAR",
-    "year": 2022,
-    "rollno": 219
+    "rollno": 58
   },
   {
     "email": "armaanhussain24bcs0323@iiitkottayam.ac.in",
@@ -1260,22 +1230,16 @@
     "rollno": 323
   },
   {
-    "email": "kandithanuja25bcs108@iiitkottayam.ac.in",
-    "name": "KANDI THANUJA",
-    "year": 2025,
-    "rollno": 108
+    "email": "jyothikap24bcs37@iiitkottayam.ac.in",
+    "name": "JYOTHIKA A P",
+    "year": 2024,
+    "rollno": 37
   },
   {
-    "email": "ishitasreedhar25bcs128@iiitkottayam.ac.in",
-    "name": "ISHITA SREEDHAR",
+    "email": "ramdasdnyaneshwar25bcs86@iiitkottayam.ac.in",
+    "name": "RAMDAS DNYANESHWAR HARALE",
     "year": 2025,
-    "rollno": 128
-  },
-  {
-    "email": "suraj22bcy35@iiitkottayam.ac.in",
-    "name": "SURAJ NAGUNURI",
-    "year": 2022,
-    "rollno": 35
+    "rollno": 86
   },
   {
     "email": "amanjafi25bcd01@iiitkottayam.ac.in",
@@ -1296,18 +1260,6 @@
     "rollno": 42
   },
   {
-    "email": "ambatijoshitha25bec39@iiitkottayam.ac.in",
-    "name": "AMBATI JOSHITHA",
-    "year": 2025,
-    "rollno": 39
-  },
-  {
-    "email": "yaramalauday25bec33@iiitkottayam.ac.in",
-    "name": "YARAMALA UDAY SAGAR",
-    "year": 2025,
-    "rollno": 33
-  },
-  {
     "email": "dian23bcs154@iiitkottayam.ac.in",
     "name": "DIAN DEBAM DEBASISH",
     "year": 2023,
@@ -1320,10 +1272,10 @@
     "rollno": 52
   },
   {
-    "email": "alex23bcs23@iiitkottayam.ac.in",
-    "name": "ALEX GIJO",
-    "year": 2023,
-    "rollno": 23
+    "email": "paduchuririthika25bcs75@iiitkottayam.ac.in",
+    "name": "PADUCHURI RITHIKA",
+    "year": 2025,
+    "rollno": 75
   },
   {
     "email": "devesh25bcy42@iiitkottayam.ac.in",
@@ -1338,10 +1290,10 @@
     "rollno": 62
   },
   {
-    "email": "pragadeeshwar25bcs258@iiitkottayam.ac.in",
-    "name": "PRAGADEESHWAR S",
-    "year": 2025,
-    "rollno": 258
+    "email": "alex23bcs23@iiitkottayam.ac.in",
+    "name": "ALEX GIJO",
+    "year": 2023,
+    "rollno": 23
   },
   {
     "email": "koedaavikshith24bcs0170@iiitkottayam.ac.in",
@@ -1350,16 +1302,10 @@
     "rollno": 170
   },
   {
-    "email": "vedantsoni24bcs0226@iiitkottayam.ac.in",
-    "name": "VEDANT SONI",
-    "year": 2024,
-    "rollno": 226
-  },
-  {
-    "email": "paduchuririthika25bcs75@iiitkottayam.ac.in",
-    "name": "PADUCHURI RITHIKA",
-    "year": 2025,
-    "rollno": 75
+    "email": "adnan23bcs35@iiitkottayam.ac.in",
+    "name": "ADNAN OMAR CHOZHIMADAM",
+    "year": 2023,
+    "rollno": 35
   },
   {
     "email": "vemulavipul25bcs172@iiitkottayam.ac.in",
@@ -1368,10 +1314,22 @@
     "rollno": 172
   },
   {
-    "email": "adnan23bcs35@iiitkottayam.ac.in",
-    "name": "ADNAN OMAR CHOZHIMADAM",
-    "year": 2023,
-    "rollno": 35
+    "email": "pragadeeshwar25bcs258@iiitkottayam.ac.in",
+    "name": "PRAGADEESHWAR S",
+    "year": 2025,
+    "rollno": 258
+  },
+  {
+    "email": "kandithanuja25bcs108@iiitkottayam.ac.in",
+    "name": "KANDI THANUJA",
+    "year": 2025,
+    "rollno": 108
+  },
+  {
+    "email": "vedantsoni24bcs0226@iiitkottayam.ac.in",
+    "name": "VEDANT SONI",
+    "year": 2024,
+    "rollno": 226
   },
   {
     "email": "neilthomas25bcs114@iiitkottayam.ac.in",
@@ -1380,10 +1338,10 @@
     "rollno": 114
   },
   {
-    "email": "kethavathanand25bcs336@iiitkottayam.ac.in",
-    "name": "KETHAVATH ANAND",
+    "email": "ishitasreedhar25bcs128@iiitkottayam.ac.in",
+    "name": "ISHITA SREEDHAR",
     "year": 2025,
-    "rollno": 336
+    "rollno": 128
   },
   {
     "email": "nishantsharma25bcs297@iiitkottayam.ac.in",
@@ -1392,40 +1350,34 @@
     "rollno": 297
   },
   {
+    "email": "kethavathanand25bcs336@iiitkottayam.ac.in",
+    "name": "KETHAVATH ANAND",
+    "year": 2025,
+    "rollno": 336
+  },
+  {
     "email": "jonesroy25bec13@iiitkottayam.ac.in",
     "name": "JONES ROY MATHEW",
     "year": 2025,
     "rollno": 13
   },
   {
-    "email": "vasudevs24bcs0223@iiitkottayam.ac.in",
-    "name": "VASUDEV T S",
-    "year": 2024,
-    "rollno": 223
+    "email": "suraj22bcy35@iiitkottayam.ac.in",
+    "name": "SURAJ NAGUNURI",
+    "year": 2022,
+    "rollno": 35
   },
   {
-    "email": "hadim24bcd58@iiitkottayam.ac.in",
-    "name": "HADI M",
-    "year": 2024,
-    "rollno": 58
-  },
-  {
-    "email": "bhukya23bcs140@iiitkottayam.ac.in",
-    "name": "BHUKYA CHENNA KESHAV",
-    "year": 2023,
-    "rollno": 140
-  },
-  {
-    "email": "adithmohan25bcs273@iiitkottayam.ac.in",
-    "name": "ADITH MOHAN C",
+    "email": "ambatijoshitha25bec39@iiitkottayam.ac.in",
+    "name": "AMBATI JOSHITHA",
     "year": 2025,
-    "rollno": 273
+    "rollno": 39
   },
   {
-    "email": "rajkiranrajendran25bcs48@iiitkottayam.ac.in",
-    "name": "RAJKIRAN K RAJENDRAN",
+    "email": "yaramalauday25bec33@iiitkottayam.ac.in",
+    "name": "YARAMALA UDAY SAGAR",
     "year": 2025,
-    "rollno": 48
+    "rollno": 33
   },
   {
     "email": "nitingaupale24bcy14@iiitkottayam.ac.in",
@@ -1434,10 +1386,10 @@
     "rollno": 14
   },
   {
-    "email": "saiteja25bcs05@iiitkottayam.ac.in",
-    "name": "K SAI TEJA",
-    "year": 2025,
-    "rollno": 5
+    "email": "ankitkumar24bcs0262@iiitkottayam.ac.in",
+    "name": "ANKIT KUMAR",
+    "year": 2024,
+    "rollno": 262
   },
   {
     "email": "ravulapalliganesh24bcs0342@iiitkottayam.ac.in",
@@ -1446,34 +1398,10 @@
     "rollno": 342
   },
   {
-    "email": "navaneethb24bcs27@iiitkottayam.ac.in",
-    "name": "NAVANEETH KRISHNA B",
-    "year": 2024,
-    "rollno": 27
-  },
-  {
-    "email": "muhammedmalayil24bcd34@iiitkottayam.ac.in",
-    "name": "MUHAMMED SHANID SAJEER",
-    "year": 2024,
-    "rollno": 34
-  },
-  {
     "email": "chodipalliyaswanth24bcs0274@iiitkottayam.ac.in",
     "name": "CHODIPALLI YASWANTH",
     "year": 2024,
     "rollno": 274
-  },
-  {
-    "email": "adithyan25bcs120@iiitkottayam.ac.in",
-    "name": "ADITHYAN J S",
-    "year": 2025,
-    "rollno": 120
-  },
-  {
-    "email": "devnarayans24bcs0209@iiitkottayam.ac.in",
-    "name": "DEVNARAYAN P S",
-    "year": 2024,
-    "rollno": 209
   },
   {
     "email": "vempalibalaji25bcs68@iiitkottayam.ac.in",
@@ -1488,28 +1416,22 @@
     "rollno": 49
   },
   {
+    "email": "mohammedameenul25bec24@iiitkottayam.ac.in",
+    "name": "MOHAMMED AMEENUL RUSSEL TM",
+    "year": 2025,
+    "rollno": 24
+  },
+  {
     "email": "arnavphilip24bcy04@iiitkottayam.ac.in",
     "name": "ARNAV PHILIP",
     "year": 2024,
     "rollno": 4
   },
   {
-    "email": "harib24bcy43@iiitkottayam.ac.in",
-    "name": "HARI GOVIND B",
-    "year": 2024,
-    "rollno": 43
-  },
-  {
-    "email": "shaikshaheeq24bcs0109@iiitkottayam.ac.in",
-    "name": "SHAIK SHAHEEQ",
-    "year": 2024,
-    "rollno": 109
-  },
-  {
-    "email": "mohammedameenul25bec24@iiitkottayam.ac.in",
-    "name": "MOHAMMED AMEENUL RUSSEL TM",
-    "year": 2025,
-    "rollno": 24
+    "email": "bhukya23bcs140@iiitkottayam.ac.in",
+    "name": "BHUKYA CHENNA KESHAV",
+    "year": 2023,
+    "rollno": 140
   },
   {
     "email": "yandrapusaicharan25bcs99@iiitkottayam.ac.in",
@@ -1518,16 +1440,28 @@
     "rollno": 99
   },
   {
-    "email": "akashyadav24bcs0250@iiitkottayam.ac.in",
-    "name": "AKASH YADAV",
+    "email": "vasudevs24bcs0223@iiitkottayam.ac.in",
+    "name": "VASUDEV T S",
     "year": 2024,
-    "rollno": 250
+    "rollno": 223
   },
   {
-    "email": "ankitkumar24bcs0262@iiitkottayam.ac.in",
-    "name": "ANKIT KUMAR",
+    "email": "hadim24bcd58@iiitkottayam.ac.in",
+    "name": "HADI M",
     "year": 2024,
-    "rollno": 262
+    "rollno": 58
+  },
+  {
+    "email": "adithmohan25bcs273@iiitkottayam.ac.in",
+    "name": "ADITH MOHAN C",
+    "year": 2025,
+    "rollno": 273
+  },
+  {
+    "email": "rajkiranrajendran25bcs48@iiitkottayam.ac.in",
+    "name": "RAJKIRAN K RAJENDRAN",
+    "year": 2025,
+    "rollno": 48
   },
   {
     "email": "surya23bcs99@iiitkottayam.ac.in",
@@ -1536,82 +1470,64 @@
     "rollno": 99
   },
   {
+    "email": "gaddam23bcd27@iiitkottayam.ac.in",
+    "name": "GADDAM SUJAN",
+    "year": 2023,
+    "rollno": 27
+  },
+  {
+    "email": "akashyadav24bcs0250@iiitkottayam.ac.in",
+    "name": "AKASH YADAV",
+    "year": 2024,
+    "rollno": 250
+  },
+  {
+    "email": "saiteja25bcs05@iiitkottayam.ac.in",
+    "name": "K SAI TEJA",
+    "year": 2025,
+    "rollno": 5
+  },
+  {
+    "email": "navaneethb24bcs27@iiitkottayam.ac.in",
+    "name": "NAVANEETH KRISHNA B",
+    "year": 2024,
+    "rollno": 27
+  },
+  {
+    "email": "muhammedmalayil24bcd34@iiitkottayam.ac.in",
+    "name": "MUHAMMED SHANID SAJEER",
+    "year": 2024,
+    "rollno": 34
+  },
+  {
+    "email": "adithyan25bcs120@iiitkottayam.ac.in",
+    "name": "ADITHYAN J S",
+    "year": 2025,
+    "rollno": 120
+  },
+  {
+    "email": "shaikshaheeq24bcs0109@iiitkottayam.ac.in",
+    "name": "SHAIK SHAHEEQ",
+    "year": 2024,
+    "rollno": 109
+  },
+  {
+    "email": "harib24bcy43@iiitkottayam.ac.in",
+    "name": "HARI GOVIND B",
+    "year": 2024,
+    "rollno": 43
+  },
+  {
+    "email": "simon22bcs219@iiitkottayam.ac.in",
+    "name": "GUDA SIMON SHUBHAKAR",
+    "year": 2022,
+    "rollno": 219
+  },
+  {
     "email": "sarahsiyab24bcs0124@iiitkottayam.ac.in",
     "name": "SARAH SIYAB",
     "year": 2024,
     "rollno": 124
-  },
-  {
-    "email": "vijayharish25bcs111@iiitkottayam.ac.in",
-    "name": "VIJAY HARISH BALAJI S",
-    "year": 2025,
-    "rollno": 111
-  },
-  {
-    "email": "rinu23bcs29@iiitkottayam.ac.in",
-    "name": "RINU ANN VARGHESE",
-    "year": 2023,
-    "rollno": 29
-  },
-  {
-    "email": "deepikaashish25bcs47@iiitkottayam.ac.in",
-    "name": "DEEPIKA ASHISH SREEJA",
-    "year": 2025,
-    "rollno": 47
-  },
-  {
-    "email": "akashnambiar25bec30@iiitkottayam.ac.in",
-    "name": "AKASH NAMBIAR",
-    "year": 2025,
-    "rollno": 30
-  },
-  {
-    "email": "ashwin23bcs44@iiitkottayam.ac.in",
-    "name": "ASHWIN S",
-    "year": 2023,
-    "rollno": 44
-  },
-  {
-    "email": "ameeshahabeeb25bec32@iiitkottayam.ac.in",
-    "name": "AMEESHA HABEEB",
-    "year": 2025,
-    "rollno": 32
-  },
-  {
-    "email": "achantasiva25bec57@iiitkottayam.ac.in",
-    "name": "ACHANTA SIVA SATYA NAGA SAI VIJAYA BALAJI",
-    "year": 2025,
-    "rollno": 57
-  },
-  {
-    "email": "tharani23bcs26@iiitkottayam.ac.in",
-    "name": "THARANITHAR R",
-    "year": 2023,
-    "rollno": 26
-  },
-  {
-    "email": "aanchalsingh24bcy56@iiitkottayam.ac.in",
-    "name": "AANCHAL SINGH",
-    "year": 2024,
-    "rollno": 56
-  },
-  {
-    "email": "mohitraj25bcs270@iiitkottayam.ac.in",
-    "name": "MOHIT RAJ",
-    "year": 2025,
-    "rollno": 270
-  },
-  {
-    "email": "aditya23bcs3@iiitkottayam.ac.in",
-    "name": "ADITYA GOPAL",
-    "year": 2023,
-    "rollno": 3
-  },
-  {
-    "email": "pasyanaga25bcs176@iiitkottayam.ac.in",
-    "name": "PASYA NAGA HARSHINI REDDY",
-    "year": 2025,
-    "rollno": 176
   },
   {
     "email": "rishigeshvairamuthu25bcd20@iiitkottayam.ac.in",
@@ -1620,16 +1536,70 @@
     "rollno": 20
   },
   {
-    "email": "athulkrishna25bcs200@iiitkottayam.ac.in",
-    "name": "ATHULKRISHNA C K",
+    "email": "pasyanaga25bcs176@iiitkottayam.ac.in",
+    "name": "PASYA NAGA HARSHINI REDDY",
     "year": 2025,
-    "rollno": 200
+    "rollno": 176
+  },
+  {
+    "email": "tharani23bcs26@iiitkottayam.ac.in",
+    "name": "THARANITHAR R",
+    "year": 2023,
+    "rollno": 26
+  },
+  {
+    "email": "achantasiva25bec57@iiitkottayam.ac.in",
+    "name": "ACHANTA SIVA SATYA NAGA SAI VIJAYA BALAJI",
+    "year": 2025,
+    "rollno": 57
+  },
+  {
+    "email": "rinu23bcs29@iiitkottayam.ac.in",
+    "name": "RINU ANN VARGHESE",
+    "year": 2023,
+    "rollno": 29
+  },
+  {
+    "email": "ameeshahabeeb25bec32@iiitkottayam.ac.in",
+    "name": "AMEESHA HABEEB",
+    "year": 2025,
+    "rollno": 32
+  },
+  {
+    "email": "vijayharish25bcs111@iiitkottayam.ac.in",
+    "name": "VIJAY HARISH BALAJI S",
+    "year": 2025,
+    "rollno": 111
+  },
+  {
+    "email": "ashwin23bcs44@iiitkottayam.ac.in",
+    "name": "ASHWIN S",
+    "year": 2023,
+    "rollno": 44
+  },
+  {
+    "email": "chinmoy23bcs52@iiitkottayam.ac.in",
+    "name": "CHINMOY DAS",
+    "year": 2023,
+    "rollno": 52
+  },
+  {
+    "email": "aanchalsingh24bcy56@iiitkottayam.ac.in",
+    "name": "AANCHAL SINGH",
+    "year": 2024,
+    "rollno": 56
   },
   {
     "email": "sachin23bcs64@iiitkottayam.ac.in",
     "name": "SACHIN SINGH",
     "year": 2023,
     "rollno": 64
+  },
+  {
+    "email": "athulkrishna25bcs200@iiitkottayam.ac.in",
+    "name": "ATHULKRISHNA C K",
+    "year": 2025,
+    "rollno": 200
   },
   {
     "email": "choppakumar24bcs0179@iiitkottayam.ac.in",
@@ -1644,16 +1614,10 @@
     "rollno": 72
   },
   {
-    "email": "gellilakshmi25bcy60@iiitkottayam.ac.in",
-    "name": "GELLI LAKSHMI BHANUSHWI",
-    "year": 2025,
-    "rollno": 60
-  },
-  {
-    "email": "chinmoy23bcs52@iiitkottayam.ac.in",
-    "name": "CHINMOY DAS",
-    "year": 2023,
-    "rollno": 52
+    "email": "chandranahanisha24bcd04@iiitkottayam.ac.in",
+    "name": "CHANDRANA HANISHA",
+    "year": 2024,
+    "rollno": 4
   },
   {
     "email": "kumarha23bec8@iiitkottayam.ac.in",
@@ -1662,34 +1626,28 @@
     "rollno": 8
   },
   {
-    "email": "ankamshanmukha25bcd37@iiitkottayam.ac.in",
-    "name": "ANKAM SHANMUKHA RAJA SRI VENKATA SAI",
+    "email": "akashnambiar25bec30@iiitkottayam.ac.in",
+    "name": "AKASH NAMBIAR",
     "year": 2025,
-    "rollno": 37
+    "rollno": 30
   },
   {
-    "email": "theerthas24bcs0184@iiitkottayam.ac.in",
-    "name": "THEERTHA S",
-    "year": 2024,
-    "rollno": 184
-  },
-  {
-    "email": "chandranahanisha24bcd04@iiitkottayam.ac.in",
-    "name": "CHANDRANA HANISHA",
-    "year": 2024,
-    "rollno": 4
-  },
-  {
-    "email": "muditjain25bcs143@iiitkottayam.ac.in",
-    "name": "MUDIT JAIN",
+    "email": "deepikaashish25bcs47@iiitkottayam.ac.in",
+    "name": "DEEPIKA ASHISH SREEJA",
     "year": 2025,
-    "rollno": 143
+    "rollno": 47
   },
   {
-    "email": "kprerana24bcs48@iiitkottayam.ac.in",
-    "name": "K PRERANA",
-    "year": 2024,
-    "rollno": 48
+    "email": "aditya23bcs3@iiitkottayam.ac.in",
+    "name": "ADITYA GOPAL",
+    "year": 2023,
+    "rollno": 3
+  },
+  {
+    "email": "gellilakshmi25bcy60@iiitkottayam.ac.in",
+    "name": "GELLI LAKSHMI BHANUSHWI",
+    "year": 2025,
+    "rollno": 60
   },
   {
     "email": "swetham24bcs31@iiitkottayam.ac.in",
@@ -1698,28 +1656,28 @@
     "rollno": 31
   },
   {
-    "email": "abinkrishna25bcs314@iiitkottayam.ac.in",
-    "name": "ABIN KRISHNA N R",
-    "year": 2025,
-    "rollno": 314
-  },
-  {
-    "email": "niharshiju24bcs98@iiitkottayam.ac.in",
-    "name": "NIHAR SHIJU",
-    "year": 2024,
-    "rollno": 98
-  },
-  {
-    "email": "vijayv24bcs0101@iiitkottayam.ac.in",
-    "name": "VIJAY ANTONY RINISH V",
-    "year": 2024,
-    "rollno": 101
+    "email": "sirapar23bcs78@iiitkottayam.ac.in",
+    "name": "SIRAPARAPU SAI SATYA PAVAN CHARAN",
+    "year": 2023,
+    "rollno": 78
   },
   {
     "email": "abhinan23bcs74@iiitkottayam.ac.in",
     "name": "ABHINANDH RAJEEV",
     "year": 2023,
     "rollno": 74
+  },
+  {
+    "email": "muditjain25bcs143@iiitkottayam.ac.in",
+    "name": "MUDIT JAIN",
+    "year": 2025,
+    "rollno": 143
+  },
+  {
+    "email": "vijayv24bcs0101@iiitkottayam.ac.in",
+    "name": "VIJAY ANTONY RINISH V",
+    "year": 2024,
+    "rollno": 101
   },
   {
     "email": "suryavardhansingh25bcs239@iiitkottayam.ac.in",
@@ -1734,10 +1692,10 @@
     "rollno": 303
   },
   {
-    "email": "vinayakvinod25bcs160@iiitkottayam.ac.in",
-    "name": "VINAYAK S VINOD",
-    "year": 2025,
-    "rollno": 160
+    "email": "bajantrivishnuvardhan24bcs0205@iiitkottayam.ac.in",
+    "name": "BAJANTRI VISHNUVARDHAN",
+    "year": 2024,
+    "rollno": 205
   },
   {
     "email": "gudipal23bcd39@iiitkottayam.ac.in",
@@ -1746,10 +1704,16 @@
     "rollno": 39
   },
   {
-    "email": "anayduggal25bcs93@iiitkottayam.ac.in",
-    "name": "ANAY DUGGAL",
+    "email": "vinayakvinod25bcs160@iiitkottayam.ac.in",
+    "name": "VINAYAK S VINOD",
     "year": 2025,
-    "rollno": 93
+    "rollno": 160
+  },
+  {
+    "email": "abinkrishna25bcs314@iiitkottayam.ac.in",
+    "name": "ABIN KRISHNA N R",
+    "year": 2025,
+    "rollno": 314
   },
   {
     "email": "nandithasanal24bcs0177@iiitkottayam.ac.in",
@@ -1758,16 +1722,34 @@
     "rollno": 177
   },
   {
+    "email": "niharshiju24bcs98@iiitkottayam.ac.in",
+    "name": "NIHAR SHIJU",
+    "year": 2024,
+    "rollno": 98
+  },
+  {
     "email": "sneyathilak25bec27@iiitkottayam.ac.in",
     "name": "SNEYA THILAK",
     "year": 2025,
     "rollno": 27
   },
   {
-    "email": "naseemabdunnasar24bec41@iiitkottayam.ac.in",
-    "name": "Naseem Abdunnasar",
-    "year": 2024,
-    "rollno": 41
+    "email": "ankit22bcd1@iiitkottayam.ac.in",
+    "name": "ANKIT SUBHASH AYYAPPAN",
+    "year": 2022,
+    "rollno": 1
+  },
+  {
+    "email": "anayduggal25bcs93@iiitkottayam.ac.in",
+    "name": "ANAY DUGGAL",
+    "year": 2025,
+    "rollno": 93
+  },
+  {
+    "email": "orugantipavan25bcs98@iiitkottayam.ac.in",
+    "name": "ORUGANTI PAVAN KUMAR",
+    "year": 2025,
+    "rollno": 98
   },
   {
     "email": "narravulareddy24bcd64@iiitkottayam.ac.in",
@@ -1782,106 +1764,10 @@
     "rollno": 42
   },
   {
-    "email": "orugantipavan25bcs98@iiitkottayam.ac.in",
-    "name": "ORUGANTI PAVAN KUMAR",
-    "year": 2025,
-    "rollno": 98
-  },
-  {
-    "email": "ankit22bcd1@iiitkottayam.ac.in",
-    "name": "ANKIT SUBHASH AYYAPPAN",
-    "year": 2022,
-    "rollno": 1
-  },
-  {
-    "email": "sirapar23bcs78@iiitkottayam.ac.in",
-    "name": "SIRAPARAPU SAI SATYA PAVAN CHARAN",
-    "year": 2023,
-    "rollno": 78
-  },
-  {
-    "email": "bichu23bcs102@iiitkottayam.ac.in",
-    "name": "BICHU DEVNARAYAN",
-    "year": 2023,
-    "rollno": 102
-  },
-  {
-    "email": "abhyudaitiwari24bcs0140@iiitkottayam.ac.in",
-    "name": "ABHYUDAI TIWARI",
+    "email": "naseemabdunnasar24bec41@iiitkottayam.ac.in",
+    "name": "Naseem Abdunnasar",
     "year": 2024,
-    "rollno": 140
-  },
-  {
-    "email": "abhishe23bcy50@iiitkottayam.ac.in",
-    "name": "ABHISHEK R",
-    "year": 2023,
-    "rollno": 50
-  },
-  {
-    "email": "arjun.p25bec31@iiitkottayam.ac.in",
-    "name": "ARJUN.P",
-    "year": 2025,
-    "rollno": 31
-  },
-  {
-    "email": "satyam23bcy27@iiitkottayam.ac.in",
-    "name": "SATYAM NARAYAN",
-    "year": 2023,
-    "rollno": 27
-  },
-  {
-    "email": "advanikaran25bcs66@iiitkottayam.ac.in",
-    "name": "ADVANI KARAN MAHENDRA",
-    "year": 2025,
-    "rollno": 66
-  },
-  {
-    "email": "gouthamkrishna25bcs136@iiitkottayam.ac.in",
-    "name": "GOUTHAM KRISHNA P",
-    "year": 2025,
-    "rollno": 136
-  },
-  {
-    "email": "niranjanhari25bcs309@iiitkottayam.ac.in",
-    "name": "NIRANJAN HARI",
-    "year": 2025,
-    "rollno": 309
-  },
-  {
-    "email": "deepakrathore24bcd70@iiitkottayam.ac.in",
-    "name": "DEEPAK RATHORE",
-    "year": 2024,
-    "rollno": 70
-  },
-  {
-    "email": "vishwan23bcs57@iiitkottayam.ac.in",
-    "name": "VISHWANATH PRAKASH DARUR",
-    "year": 2023,
-    "rollno": 57
-  },
-  {
-    "email": "bojanapallysamanvitha25bcs322@iiitkottayam.ac.in",
-    "name": "BOJANAPALLY SAMANVITHA",
-    "year": 2025,
-    "rollno": 322
-  },
-  {
-    "email": "thippar23bcs197@iiitkottayam.ac.in",
-    "name": "THIPPARTHI RUPSIKA",
-    "year": 2023,
-    "rollno": 197
-  },
-  {
-    "email": "mohammednihal25bcs307@iiitkottayam.ac.in",
-    "name": "MOHAMMED NIHAL V",
-    "year": 2025,
-    "rollno": 307
-  },
-  {
-    "email": "kunamal23bcs231@iiitkottayam.ac.in",
-    "name": "KUNAMALLA THARUN",
-    "year": 2023,
-    "rollno": 231
+    "rollno": 41
   },
   {
     "email": "ayushkumar24bcy44@iiitkottayam.ac.in",
@@ -1890,16 +1776,34 @@
     "rollno": 44
   },
   {
-    "email": "sourjesh22bec7@iiitkottayam.ac.in",
-    "name": "SOURJESH MUKHERJEE",
-    "year": 2022,
-    "rollno": 7
+    "email": "jaremayur25bcs277@iiitkottayam.ac.in",
+    "name": "JARE MAYUR MAHESH",
+    "year": 2025,
+    "rollno": 277
   },
   {
-    "email": "malothu23bec38@iiitkottayam.ac.in",
-    "name": "MALOTHU NAVEEN",
+    "email": "bojanapallysamanvitha25bcs322@iiitkottayam.ac.in",
+    "name": "BOJANAPALLY SAMANVITHA",
+    "year": 2025,
+    "rollno": 322
+  },
+  {
+    "email": "satyam23bcy27@iiitkottayam.ac.in",
+    "name": "SATYAM NARAYAN",
     "year": 2023,
-    "rollno": 38
+    "rollno": 27
+  },
+  {
+    "email": "niranjanhari25bcs309@iiitkottayam.ac.in",
+    "name": "NIRANJAN HARI",
+    "year": 2025,
+    "rollno": 309
+  },
+  {
+    "email": "abhishe23bcy50@iiitkottayam.ac.in",
+    "name": "ABHISHEK R",
+    "year": 2023,
+    "rollno": 50
   },
   {
     "email": "kesavar23bcd18@iiitkottayam.ac.in",
@@ -1908,10 +1812,76 @@
     "rollno": 18
   },
   {
-    "email": "jaremayur25bcs277@iiitkottayam.ac.in",
-    "name": "JARE MAYUR MAHESH",
+    "email": "gouthamkrishna25bcs136@iiitkottayam.ac.in",
+    "name": "GOUTHAM KRISHNA P",
     "year": 2025,
-    "rollno": 277
+    "rollno": 136
+  },
+  {
+    "email": "sourjesh22bec7@iiitkottayam.ac.in",
+    "name": "SOURJESH MUKHERJEE",
+    "year": 2022,
+    "rollno": 7
+  },
+  {
+    "email": "advanikaran25bcs66@iiitkottayam.ac.in",
+    "name": "ADVANI KARAN MAHENDRA",
+    "year": 2025,
+    "rollno": 66
+  },
+  {
+    "email": "kunamal23bcs231@iiitkottayam.ac.in",
+    "name": "KUNAMALLA THARUN",
+    "year": 2023,
+    "rollno": 231
+  },
+  {
+    "email": "bichu23bcs102@iiitkottayam.ac.in",
+    "name": "BICHU DEVNARAYAN",
+    "year": 2023,
+    "rollno": 102
+  },
+  {
+    "email": "vishwan23bcs57@iiitkottayam.ac.in",
+    "name": "VISHWANATH PRAKASH DARUR",
+    "year": 2023,
+    "rollno": 57
+  },
+  {
+    "email": "deepakrathore24bcd70@iiitkottayam.ac.in",
+    "name": "DEEPAK RATHORE",
+    "year": 2024,
+    "rollno": 70
+  },
+  {
+    "email": "abhyudaitiwari24bcs0140@iiitkottayam.ac.in",
+    "name": "ABHYUDAI TIWARI",
+    "year": 2024,
+    "rollno": 140
+  },
+  {
+    "email": "thippar23bcs197@iiitkottayam.ac.in",
+    "name": "THIPPARTHI RUPSIKA",
+    "year": 2023,
+    "rollno": 197
+  },
+  {
+    "email": "arjun.p25bec31@iiitkottayam.ac.in",
+    "name": "ARJUN.P",
+    "year": 2025,
+    "rollno": 31
+  },
+  {
+    "email": "mohammednihal25bcs307@iiitkottayam.ac.in",
+    "name": "MOHAMMED NIHAL V",
+    "year": 2025,
+    "rollno": 307
+  },
+  {
+    "email": "malothu23bec38@iiitkottayam.ac.in",
+    "name": "MALOTHU NAVEEN",
+    "year": 2023,
+    "rollno": 38
   },
   {
     "email": "divyanshuraj25bcs212@iiitkottayam.ac.in",
@@ -1920,16 +1890,28 @@
     "rollno": 212
   },
   {
-    "email": "sammithkrishna25bcd49@iiitkottayam.ac.in",
-    "name": "SAMMITH KRISHNA JALLURI",
-    "year": 2025,
-    "rollno": 49
-  },
-  {
     "email": "linojohnson25bcs21@iiitkottayam.ac.in",
     "name": "LINO JOHNSON",
     "year": 2025,
     "rollno": 21
+  },
+  {
+    "email": "aniket22bcs137@iiitkottayam.ac.in",
+    "name": "SINGH ANIKET SATISH",
+    "year": 2022,
+    "rollno": 137
+  },
+  {
+    "email": "bebinsam25bec07@iiitkottayam.ac.in",
+    "name": "BEBIN SAM",
+    "year": 2025,
+    "rollno": 7
+  },
+  {
+    "email": "sanjay23bcs20@iiitkottayam.ac.in",
+    "name": "SANJAY A",
+    "year": 2023,
+    "rollno": 20
   },
   {
     "email": "dakshchandia25bcy40@iiitkottayam.ac.in",
@@ -1944,76 +1926,10 @@
     "rollno": 53
   },
   {
-    "email": "aniket22bcs137@iiitkottayam.ac.in",
-    "name": "SINGH ANIKET SATISH",
-    "year": 2022,
-    "rollno": 137
-  },
-  {
-    "email": "shaikahamad24bcs0292@iiitkottayam.ac.in",
-    "name": "SHAIK TANVEER AHAMAD",
-    "year": 2024,
-    "rollno": 292
-  },
-  {
     "email": "alan23bec5@iiitkottayam.ac.in",
     "name": "Alan Thomas Paul",
     "year": 2023,
     "rollno": 5
-  },
-  {
-    "email": "sanjay23bcs20@iiitkottayam.ac.in",
-    "name": "SANJAY A",
-    "year": 2023,
-    "rollno": 20
-  },
-  {
-    "email": "yatishkumar25bcs205@iiitkottayam.ac.in",
-    "name": "YATISH KUMAR RAY",
-    "year": 2025,
-    "rollno": 205
-  },
-  {
-    "email": "sakshamsingh24bcs0252@iiitkottayam.ac.in",
-    "name": "SAKSHAM SINGH",
-    "year": 2024,
-    "rollno": 252
-  },
-  {
-    "email": "fionarajeev25bcs213@iiitkottayam.ac.in",
-    "name": "FIONA RAJEEV",
-    "year": 2025,
-    "rollno": 213
-  },
-  {
-    "email": "laavany23bcy38@iiitkottayam.ac.in",
-    "name": "LAAVANYA RAJAN",
-    "year": 2023,
-    "rollno": 38
-  },
-  {
-    "email": "nagubandivarshith24bcs63@iiitkottayam.ac.in",
-    "name": "NAGUBANDI VARSHITH",
-    "year": 2024,
-    "rollno": 63
-  },
-  {
-    "email": "parvathynair25bcs25@iiitkottayam.ac.in",
-    "name": "PARVATHY R NAIR",
-    "year": 2025,
-    "rollno": 25
-  },
-  {
-    "email": "nigilvignesh25bcs37@iiitkottayam.ac.in",
-    "name": "S R NIGIL VIGNESH",
-    "year": 2025,
-    "rollno": 37
-  },
-  {
-    "email": "sanjay25bcd07@iiitkottayam.ac.in",
-    "name": "SANJAY S",
-    "year": 2025,
-    "rollno": 7
   },
   {
     "email": "arun23bcs173@iiitkottayam.ac.in",
@@ -2022,10 +1938,10 @@
     "rollno": 173
   },
   {
-    "email": "dakshsrivastava24bcy62@iiitkottayam.ac.in",
-    "name": "Daksh Srivastava",
+    "email": "shaikahamad24bcs0292@iiitkottayam.ac.in",
+    "name": "SHAIK TANVEER AHAMAD",
     "year": 2024,
-    "rollno": 62
+    "rollno": 292
   },
   {
     "email": "pannemteja24bcs0120@iiitkottayam.ac.in",
@@ -2034,14 +1950,50 @@
     "rollno": 120
   },
   {
+    "email": "yatishkumar25bcs205@iiitkottayam.ac.in",
+    "name": "YATISH KUMAR RAY",
+    "year": 2025,
+    "rollno": 205
+  },
+  {
+    "email": "laavany23bcy38@iiitkottayam.ac.in",
+    "name": "LAAVANYA RAJAN",
+    "year": 2023,
+    "rollno": 38
+  },
+  {
+    "email": "nigilvignesh25bcs37@iiitkottayam.ac.in",
+    "name": "S R NIGIL VIGNESH",
+    "year": 2025,
+    "rollno": 37
+  },
+  {
+    "email": "parvathynair25bcs25@iiitkottayam.ac.in",
+    "name": "PARVATHY R NAIR",
+    "year": 2025,
+    "rollno": 25
+  },
+  {
+    "email": "nagubandivarshith24bcs63@iiitkottayam.ac.in",
+    "name": "NAGUBANDI VARSHITH",
+    "year": 2024,
+    "rollno": 63
+  },
+  {
     "email": "nigade22bcd45@iiitkottayam.ac.in",
     "name": "NIGADE VAISHNAV DIPAKRAO",
     "year": 2022,
     "rollno": 45
   },
   {
-    "email": "bebinsam25bec07@iiitkottayam.ac.in",
-    "name": "BEBIN SAM",
+    "email": "dakshsrivastava24bcy62@iiitkottayam.ac.in",
+    "name": "Daksh Srivastava",
+    "year": 2024,
+    "rollno": 62
+  },
+  {
+    "email": "sanjay25bcd07@iiitkottayam.ac.in",
+    "name": "SANJAY S",
     "year": 2025,
     "rollno": 7
   },
@@ -2052,82 +2004,16 @@
     "rollno": 203
   },
   {
-    "email": "jefin23bcs53@iiitkottayam.ac.in",
-    "name": "JEFIN FRANCIS",
-    "year": 2023,
-    "rollno": 53
+    "email": "fionarajeev25bcs213@iiitkottayam.ac.in",
+    "name": "FIONA RAJEEV",
+    "year": 2025,
+    "rollno": 213
   },
   {
-    "email": "nikhil23bcs45@iiitkottayam.ac.in",
-    "name": "NIKHIL KUMAR",
-    "year": 2023,
-    "rollno": 45
-  },
-  {
-    "email": "amaldevg24bec17@iiitkottayam.ac.in",
-    "name": "AMALDEV P G",
+    "email": "sakshamsingh24bcs0252@iiitkottayam.ac.in",
+    "name": "SAKSHAM SINGH",
     "year": 2024,
-    "rollno": 17
-  },
-  {
-    "email": "ejjigiriakshith25bcy09@iiitkottayam.ac.in",
-    "name": "EJJIGIRI AKSHITH KUMAR",
-    "year": 2025,
-    "rollno": 9
-  },
-  {
-    "email": "jen23bcs17@iiitkottayam.ac.in",
-    "name": "JEN JOSE JEESON",
-    "year": 2023,
-    "rollno": 17
-  },
-  {
-    "email": "gallasuharshitha24bcs51@iiitkottayam.ac.in",
-    "name": "GALLA MAHIMA SUHARSHITHA",
-    "year": 2024,
-    "rollno": 51
-  },
-  {
-    "email": "rajalakshmi25bcs312@iiitkottayam.ac.in",
-    "name": "RAJALAKSHMI T",
-    "year": 2025,
-    "rollno": 312
-  },
-  {
-    "email": "sam23bcd2@iiitkottayam.ac.in",
-    "name": "SAM RUBEN ABRAHAM",
-    "year": 2023,
-    "rollno": 2
-  },
-  {
-    "email": "ojassharma25bec10@iiitkottayam.ac.in",
-    "name": "OJAS SHARMA",
-    "year": 2025,
-    "rollno": 10
-  },
-  {
-    "email": "reddykumar24bcs0280@iiitkottayam.ac.in",
-    "name": "REDDY SUJITH KUMAR",
-    "year": 2024,
-    "rollno": 280
-  },
-  {
-    "email": "bismianeesa25bcs316@iiitkottayam.ac.in",
-    "name": "BISMI ANEESA BEEVI SHAJAHAN",
-    "year": 2025,
-    "rollno": 316
-  },
-  {
-    "email": "chinnakotlareddy24bcs85@iiitkottayam.ac.in",
-    "name": "CHINNAKOTLA NEELAKANTA REDDY",
-    "year": 2024,
-    "rollno": 85
-  },
-  {
-    "email": "rayhaanlibish25bcd02@iiitkottayam.ac.in",
-    "name": "RAYHAAN LIBISH",
-    "year": 2025,
-    "rollno": 2
+    "rollno": 252
   },
   {
     "email": "ramtekedivya25bcs161@iiitkottayam.ac.in",
@@ -2136,16 +2022,46 @@
     "rollno": 161
   },
   {
-    "email": "tallasathwik25bec44@iiitkottayam.ac.in",
-    "name": "TALLA SATHWIK REDDY",
+    "email": "ejjigiriakshith25bcy09@iiitkottayam.ac.in",
+    "name": "EJJIGIRI AKSHITH KUMAR",
     "year": 2025,
-    "rollno": 44
+    "rollno": 9
   },
   {
-    "email": "abhisreeajay24bcs0169@iiitkottayam.ac.in",
-    "name": "ABHISREE S AJAY",
+    "email": "amaldevg24bec17@iiitkottayam.ac.in",
+    "name": "AMALDEV P G",
     "year": 2024,
-    "rollno": 169
+    "rollno": 17
+  },
+  {
+    "email": "jen23bcs17@iiitkottayam.ac.in",
+    "name": "JEN JOSE JEESON",
+    "year": 2023,
+    "rollno": 17
+  },
+  {
+    "email": "nikhil23bcs45@iiitkottayam.ac.in",
+    "name": "NIKHIL KUMAR",
+    "year": 2023,
+    "rollno": 45
+  },
+  {
+    "email": "rajalakshmi25bcs312@iiitkottayam.ac.in",
+    "name": "RAJALAKSHMI T",
+    "year": 2025,
+    "rollno": 312
+  },
+  {
+    "email": "jefin23bcs53@iiitkottayam.ac.in",
+    "name": "JEFIN FRANCIS",
+    "year": 2023,
+    "rollno": 53
+  },
+  {
+    "email": "ojassharma25bec10@iiitkottayam.ac.in",
+    "name": "OJAS SHARMA",
+    "year": 2025,
+    "rollno": 10
   },
   {
     "email": "keerthana25bcd29@iiitkottayam.ac.in",
@@ -2154,10 +2070,10 @@
     "rollno": 29
   },
   {
-    "email": "hariom25bcs198@iiitkottayam.ac.in",
-    "name": "HARI OM SHARMA",
+    "email": "bismianeesa25bcs316@iiitkottayam.ac.in",
+    "name": "BISMI ANEESA BEEVI SHAJAHAN",
     "year": 2025,
-    "rollno": 198
+    "rollno": 316
   },
   {
     "email": "suraj23bcd38@iiitkottayam.ac.in",
@@ -2166,10 +2082,34 @@
     "rollno": 38
   },
   {
-    "email": "mayurkadian25bcs310@iiitkottayam.ac.in",
-    "name": "MAYUR KADIAN",
+    "email": "rayhaanlibish25bcd02@iiitkottayam.ac.in",
+    "name": "RAYHAAN LIBISH",
     "year": 2025,
-    "rollno": 310
+    "rollno": 2
+  },
+  {
+    "email": "sam23bcd2@iiitkottayam.ac.in",
+    "name": "SAM RUBEN ABRAHAM",
+    "year": 2023,
+    "rollno": 2
+  },
+  {
+    "email": "tallasathwik25bec44@iiitkottayam.ac.in",
+    "name": "TALLA SATHWIK REDDY",
+    "year": 2025,
+    "rollno": 44
+  },
+  {
+    "email": "chinnakotlareddy24bcs85@iiitkottayam.ac.in",
+    "name": "CHINNAKOTLA NEELAKANTA REDDY",
+    "year": 2024,
+    "rollno": 85
+  },
+  {
+    "email": "reddykumar24bcs0280@iiitkottayam.ac.in",
+    "name": "REDDY SUJITH KUMAR",
+    "year": 2024,
+    "rollno": 280
   },
   {
     "email": "manchik23bcs105@iiitkottayam.ac.in",
@@ -2178,22 +2118,40 @@
     "rollno": 105
   },
   {
-    "email": "niranj23bec7@iiitkottayam.ac.in",
-    "name": "K S NIRANJAN",
-    "year": 2023,
-    "rollno": 7
-  },
-  {
-    "email": "joswinj24bcs53@iiitkottayam.ac.in",
-    "name": "JOSWIN M J",
-    "year": 2024,
-    "rollno": 53
-  },
-  {
-    "email": "anovajovin25bcs211@iiitkottayam.ac.in",
-    "name": "ANOVA K JOVIN",
+    "email": "mayurkadian25bcs310@iiitkottayam.ac.in",
+    "name": "MAYUR KADIAN",
     "year": 2025,
-    "rollno": 211
+    "rollno": 310
+  },
+  {
+    "email": "hariom25bcs198@iiitkottayam.ac.in",
+    "name": "HARI OM SHARMA",
+    "year": 2025,
+    "rollno": 198
+  },
+  {
+    "email": "abhisreeajay24bcs0169@iiitkottayam.ac.in",
+    "name": "ABHISREE S AJAY",
+    "year": 2024,
+    "rollno": 169
+  },
+  {
+    "email": "akaashanderson24bcs0114@iiitkottayam.ac.in",
+    "name": "AKAASH ANDERSON",
+    "year": 2024,
+    "rollno": 114
+  },
+  {
+    "email": "anjanasanthosh25bec56@iiitkottayam.ac.in",
+    "name": "ANJANA SANTHOSH K",
+    "year": 2025,
+    "rollno": 56
+  },
+  {
+    "email": "sheetalpradeep25bcs63@iiitkottayam.ac.in",
+    "name": "SHEETAL PRADEEP",
+    "year": 2025,
+    "rollno": 63
   },
   {
     "email": "pranathir24bcs69@iiitkottayam.ac.in",
@@ -2214,22 +2172,16 @@
     "rollno": 17
   },
   {
-    "email": "chawannayak24bcs79@iiitkottayam.ac.in",
-    "name": "CHAWAN RUTHIKRAJ NAYAK",
-    "year": 2024,
-    "rollno": 79
+    "email": "gonaganaganesh25bcs248@iiitkottayam.ac.in",
+    "name": "GONAGANA GANESH KUMAR",
+    "year": 2025,
+    "rollno": 248
   },
   {
-    "email": "nitya25bcs232@iiitkottayam.ac.in",
-    "name": "NITYA D",
+    "email": "anovajovin25bcs211@iiitkottayam.ac.in",
+    "name": "ANOVA K JOVIN",
     "year": 2025,
-    "rollno": 232
-  },
-  {
-    "email": "anjanasanthosh25bec56@iiitkottayam.ac.in",
-    "name": "ANJANA SANTHOSH K",
-    "year": 2025,
-    "rollno": 56
+    "rollno": 211
   },
   {
     "email": "sangeer23bec44@iiitkottayam.ac.in",
@@ -2238,34 +2190,10 @@
     "rollno": 44
   },
   {
-    "email": "joel23bcs61@iiitkottayam.ac.in",
-    "name": "JOEL JOSEPH MATHEWS",
-    "year": 2023,
-    "rollno": 61
-  },
-  {
-    "email": "kevinarun24bcs05@iiitkottayam.ac.in",
-    "name": "KEVIN ARUN",
-    "year": 2024,
-    "rollno": 5
-  },
-  {
-    "email": "annadevaraballa25bcs254@iiitkottayam.ac.in",
-    "name": "ANNADEVARA BALLA HANUMMANN",
+    "email": "nitya25bcs232@iiitkottayam.ac.in",
+    "name": "NITYA D",
     "year": 2025,
-    "rollno": 254
-  },
-  {
-    "email": "chittur23bcs75@iiitkottayam.ac.in",
-    "name": "CHITTURI VARUN CHOWDARY",
-    "year": 2023,
-    "rollno": 75
-  },
-  {
-    "email": "vaddi23bcd40@iiitkottayam.ac.in",
-    "name": "VADDI RAHUL",
-    "year": 2023,
-    "rollno": 40
+    "rollno": 232
   },
   {
     "email": "lipikanair25bcs313@iiitkottayam.ac.in",
@@ -2274,16 +2202,34 @@
     "rollno": 313
   },
   {
+    "email": "annadevaraballa25bcs254@iiitkottayam.ac.in",
+    "name": "ANNADEVARA BALLA HANUMMANN",
+    "year": 2025,
+    "rollno": 254
+  },
+  {
+    "email": "vaddi23bcd40@iiitkottayam.ac.in",
+    "name": "VADDI RAHUL",
+    "year": 2023,
+    "rollno": 40
+  },
+  {
     "email": "ashmi23bcs196@iiitkottayam.ac.in",
     "name": "ASHMI S N",
     "year": 2023,
     "rollno": 196
   },
   {
-    "email": "gonaganaganesh25bcs248@iiitkottayam.ac.in",
-    "name": "GONAGANA GANESH KUMAR",
-    "year": 2025,
-    "rollno": 248
+    "email": "joel23bcs61@iiitkottayam.ac.in",
+    "name": "JOEL JOSEPH MATHEWS",
+    "year": 2023,
+    "rollno": 61
+  },
+  {
+    "email": "chittur23bcs75@iiitkottayam.ac.in",
+    "name": "CHITTURI VARUN CHOWDARY",
+    "year": 2023,
+    "rollno": 75
   },
   {
     "email": "chetan23bcs233@iiitkottayam.ac.in",
@@ -2304,16 +2250,22 @@
     "rollno": 218
   },
   {
-    "email": "saliljha24bcd47@iiitkottayam.ac.in",
-    "name": "SALIL KUMAR JHA",
+    "email": "chawannayak24bcs79@iiitkottayam.ac.in",
+    "name": "CHAWAN RUTHIKRAJ NAYAK",
     "year": 2024,
-    "rollno": 47
+    "rollno": 79
   },
   {
-    "email": "nainikarayala25bcs197@iiitkottayam.ac.in",
-    "name": "NAINIKA RAYALA",
-    "year": 2025,
-    "rollno": 197
+    "email": "kevinarun24bcs05@iiitkottayam.ac.in",
+    "name": "KEVIN ARUN",
+    "year": 2024,
+    "rollno": 5
+  },
+  {
+    "email": "joswinj24bcs53@iiitkottayam.ac.in",
+    "name": "JOSWIN M J",
+    "year": 2024,
+    "rollno": 53
   },
   {
     "email": "seethamrajuaditya25bcs130@iiitkottayam.ac.in",
@@ -2322,34 +2274,10 @@
     "rollno": 130
   },
   {
-    "email": "revanth22bcs210@iiitkottayam.ac.in",
-    "name": "BOJJA REVANTH REDDY",
-    "year": 2022,
-    "rollno": 210
-  },
-  {
     "email": "divon23bcs24@iiitkottayam.ac.in",
     "name": "DIVON JOHN",
     "year": 2023,
     "rollno": 24
-  },
-  {
-    "email": "gadysukruthi25bcy48@iiitkottayam.ac.in",
-    "name": "GADY SUKRUTHI GREESHMA",
-    "year": 2025,
-    "rollno": 48
-  },
-  {
-    "email": "kandregulateja25bcs12@iiitkottayam.ac.in",
-    "name": "KANDREGULA TEJA",
-    "year": 2025,
-    "rollno": 12
-  },
-  {
-    "email": "sreyas23bcs203@iiitkottayam.ac.in",
-    "name": "SREYAS KRISHNAN V B",
-    "year": 2023,
-    "rollno": 203
   },
   {
     "email": "swathy25bec48@iiitkottayam.ac.in",
@@ -2358,34 +2286,22 @@
     "rollno": 48
   },
   {
-    "email": "shubhomoysarkar24bcs0103@iiitkottayam.ac.in",
-    "name": "SHUBHOMOY SARKAR",
-    "year": 2024,
-    "rollno": 103
-  },
-  {
-    "email": "noelmanoj24bcs46@iiitkottayam.ac.in",
-    "name": "NOEL MANOJ",
-    "year": 2024,
-    "rollno": 46
-  },
-  {
     "email": "sonawan23bcs143@iiitkottayam.ac.in",
     "name": "SONAWANE YASH PRASHANT",
     "year": 2023,
     "rollno": 143
   },
   {
-    "email": "anupamaajith24bec38@iiitkottayam.ac.in",
-    "name": "ANUPAMA AJITH",
-    "year": 2024,
-    "rollno": 38
+    "email": "sreyas23bcs203@iiitkottayam.ac.in",
+    "name": "SREYAS KRISHNAN V B",
+    "year": 2023,
+    "rollno": 203
   },
   {
-    "email": "midhunmadhulal25bec21@iiitkottayam.ac.in",
-    "name": "MIDHUN MADHULAL",
+    "email": "gadysukruthi25bcy48@iiitkottayam.ac.in",
+    "name": "GADY SUKRUTHI GREESHMA",
     "year": 2025,
-    "rollno": 21
+    "rollno": 48
   },
   {
     "email": "neha25bcs163@iiitkottayam.ac.in",
@@ -2400,22 +2316,34 @@
     "rollno": 34
   },
   {
+    "email": "midhunmadhulal25bec21@iiitkottayam.ac.in",
+    "name": "MIDHUN MADHULAL",
+    "year": 2025,
+    "rollno": 21
+  },
+  {
+    "email": "noelmanoj24bcs46@iiitkottayam.ac.in",
+    "name": "NOEL MANOJ",
+    "year": 2024,
+    "rollno": 46
+  },
+  {
+    "email": "anupamaajith24bec38@iiitkottayam.ac.in",
+    "name": "ANUPAMA AJITH",
+    "year": 2024,
+    "rollno": 38
+  },
+  {
     "email": "vaishnavnaduviledath25bec46@iiitkottayam.ac.in",
     "name": "VAISHNAV NADUVILEDATH SHIBU",
     "year": 2025,
     "rollno": 46
   },
   {
-    "email": "unnikrishnan25bcs07@iiitkottayam.ac.in",
-    "name": "H UNNIKRISHNAN",
+    "email": "kandregulateja25bcs12@iiitkottayam.ac.in",
+    "name": "KANDREGULA TEJA",
     "year": 2025,
-    "rollno": 7
-  },
-  {
-    "email": "gottipatinehitha25bcs18@iiitkottayam.ac.in",
-    "name": "GOTTIPATI NEHITHA",
-    "year": 2025,
-    "rollno": 18
+    "rollno": 12
   },
   {
     "email": "jadhavmahesh25bcs216@iiitkottayam.ac.in",
@@ -2424,10 +2352,22 @@
     "rollno": 216
   },
   {
+    "email": "unnikrishnan25bcs07@iiitkottayam.ac.in",
+    "name": "H UNNIKRISHNAN",
+    "year": 2025,
+    "rollno": 7
+  },
+  {
     "email": "ratnareddy24bcs0307@iiitkottayam.ac.in",
     "name": "RATNA MOURYA VARDHAN REDDY",
     "year": 2024,
     "rollno": 307
+  },
+  {
+    "email": "gottipatinehitha25bcs18@iiitkottayam.ac.in",
+    "name": "GOTTIPATI NEHITHA",
+    "year": 2025,
+    "rollno": 18
   },
   {
     "email": "amanmadheshiya24bcd32@iiitkottayam.ac.in",
@@ -2436,10 +2376,28 @@
     "rollno": 32
   },
   {
-    "email": "prajjwaljaiswal25bcs251@iiitkottayam.ac.in",
-    "name": "PRAJJWAL JAISWAL",
+    "email": "saliljha24bcd47@iiitkottayam.ac.in",
+    "name": "SALIL KUMAR JHA",
+    "year": 2024,
+    "rollno": 47
+  },
+  {
+    "email": "nainikarayala25bcs197@iiitkottayam.ac.in",
+    "name": "NAINIKA RAYALA",
     "year": 2025,
-    "rollno": 251
+    "rollno": 197
+  },
+  {
+    "email": "revanth22bcs210@iiitkottayam.ac.in",
+    "name": "BOJJA REVANTH REDDY",
+    "year": 2022,
+    "rollno": 210
+  },
+  {
+    "email": "shubhomoysarkar24bcs0103@iiitkottayam.ac.in",
+    "name": "SHUBHOMOY SARKAR",
+    "year": 2024,
+    "rollno": 103
   },
   {
     "email": "mohamme23bcs193@iiitkottayam.ac.in",
@@ -2448,76 +2406,10 @@
     "rollno": 193
   },
   {
-    "email": "krishnaharish24bcd68@iiitkottayam.ac.in",
-    "name": "KRISHNA HARISH",
-    "year": 2024,
-    "rollno": 68
-  },
-  {
-    "email": "ben23bcy9@iiitkottayam.ac.in",
-    "name": "BEN SAVIO",
-    "year": 2023,
-    "rollno": 9
-  },
-  {
-    "email": "ajay23bcd20@iiitkottayam.ac.in",
-    "name": "AJAY RAJESH",
-    "year": 2023,
-    "rollno": 20
-  },
-  {
-    "email": "palepuyahoshua25bcy33@iiitkottayam.ac.in",
-    "name": "PALEPU YAHOSHUA BENJAMIN",
-    "year": 2025,
-    "rollno": 33
-  },
-  {
-    "email": "harisankar25bec38@iiitkottayam.ac.in",
-    "name": "HARISANKAR S",
-    "year": 2025,
-    "rollno": 38
-  },
-  {
-    "email": "vishnu23bcs39@iiitkottayam.ac.in",
-    "name": "GANGIREDDY VISHNU VARDHAN",
-    "year": 2023,
-    "rollno": 39
-  },
-  {
-    "email": "anandswarup25bcs235@iiitkottayam.ac.in",
-    "name": "ANAND SWARUP J S",
-    "year": 2025,
-    "rollno": 235
-  },
-  {
-    "email": "chandan23bcy19@iiitkottayam.ac.in",
-    "name": "CHANDANA P T",
-    "year": 2023,
-    "rollno": 19
-  },
-  {
-    "email": "kurupanandhukrishne25bcy13@iiitkottayam.ac.in",
-    "name": "KURUP ANANDHUKRISHNE VINODKUMAR",
-    "year": 2025,
-    "rollno": 13
-  },
-  {
     "email": "adithyannair24bcd22@iiitkottayam.ac.in",
     "name": "ADITHYAN M NAIR",
     "year": 2024,
     "rollno": 22
-  },
-  {
-    "email": "mayankdubey25bec29@iiitkottayam.ac.in",
-    "name": "MAYANK DUBEY",
-    "year": 2025,
-    "rollno": 29
-  },
-  {
-    "email": "kumbhumsnigdha24bcs0266@iiitkottayam.ac.in",
-    "name": "KUMBHUM SNIGDHA",
-    "year": 2024,
-    "rollno": 266
   },
   {
     "email": "karthik23bcs58@iiitkottayam.ac.in",
@@ -2526,10 +2418,10 @@
     "rollno": 58
   },
   {
-    "email": "harshitanand25bcs192@iiitkottayam.ac.in",
-    "name": "HARSHIT ANAND",
+    "email": "palepuyahoshua25bcy33@iiitkottayam.ac.in",
+    "name": "PALEPU YAHOSHUA BENJAMIN",
     "year": 2025,
-    "rollno": 192
+    "rollno": 33
   },
   {
     "email": "mannamreddy24bcy55@iiitkottayam.ac.in",
@@ -2538,16 +2430,46 @@
     "rollno": 55
   },
   {
-    "email": "boddusunnihith25bcs345@iiitkottayam.ac.in",
-    "name": "BODDU SUNNIHITH",
-    "year": 2025,
-    "rollno": 345
+    "email": "vishnu23bcs39@iiitkottayam.ac.in",
+    "name": "GANGIREDDY VISHNU VARDHAN",
+    "year": 2023,
+    "rollno": 39
   },
   {
-    "email": "ankush23bcs131@iiitkottayam.ac.in",
-    "name": "ANKUSH",
+    "email": "krishnaharish24bcd68@iiitkottayam.ac.in",
+    "name": "KRISHNA HARISH",
+    "year": 2024,
+    "rollno": 68
+  },
+  {
+    "email": "niranj23bec7@iiitkottayam.ac.in",
+    "name": "K S NIRANJAN",
     "year": 2023,
-    "rollno": 131
+    "rollno": 7
+  },
+  {
+    "email": "prajjwaljaiswal25bcs251@iiitkottayam.ac.in",
+    "name": "PRAJJWAL JAISWAL",
+    "year": 2025,
+    "rollno": 251
+  },
+  {
+    "email": "ben23bcy9@iiitkottayam.ac.in",
+    "name": "BEN SAVIO",
+    "year": 2023,
+    "rollno": 9
+  },
+  {
+    "email": "mayankdubey25bec29@iiitkottayam.ac.in",
+    "name": "MAYANK DUBEY",
+    "year": 2025,
+    "rollno": 29
+  },
+  {
+    "email": "harshitanand25bcs192@iiitkottayam.ac.in",
+    "name": "HARSHIT ANAND",
+    "year": 2025,
+    "rollno": 192
   },
   {
     "email": "vibhaas23bcs37@iiitkottayam.ac.in",
@@ -2556,100 +2478,52 @@
     "rollno": 37
   },
   {
+    "email": "anandswarup25bcs235@iiitkottayam.ac.in",
+    "name": "ANAND SWARUP J S",
+    "year": 2025,
+    "rollno": 235
+  },
+  {
+    "email": "harisankar25bec38@iiitkottayam.ac.in",
+    "name": "HARISANKAR S",
+    "year": 2025,
+    "rollno": 38
+  },
+  {
+    "email": "chandan23bcy19@iiitkottayam.ac.in",
+    "name": "CHANDANA P T",
+    "year": 2023,
+    "rollno": 19
+  },
+  {
+    "email": "ajay23bcd20@iiitkottayam.ac.in",
+    "name": "AJAY RAJESH",
+    "year": 2023,
+    "rollno": 20
+  },
+  {
     "email": "sushil23bcs164@iiitkottayam.ac.in",
     "name": "SUSHIL KUMAR SAW",
     "year": 2023,
     "rollno": 164
   },
   {
-    "email": "dakshmandlekar25bec34@iiitkottayam.ac.in",
-    "name": "DAKSH MANDLEKAR",
-    "year": 2025,
-    "rollno": 34
-  },
-  {
-    "email": "vivek23bcs43@iiitkottayam.ac.in",
-    "name": "VIVEK BINOD",
+    "email": "ankush23bcs131@iiitkottayam.ac.in",
+    "name": "ANKUSH",
     "year": 2023,
-    "rollno": 43
+    "rollno": 131
   },
   {
-    "email": "athulyakrishnakumar25bcy07@iiitkottayam.ac.in",
-    "name": "ATHULYA KRISHNAKUMAR",
+    "email": "boddusunnihith25bcs345@iiitkottayam.ac.in",
+    "name": "BODDU SUNNIHITH",
     "year": 2025,
-    "rollno": 7
+    "rollno": 345
   },
   {
-    "email": "tshakthiy24bcd73@iiitkottayam.ac.in",
-    "name": "T P SHIVHA SHAKTHIY",
+    "email": "kumbhumsnigdha24bcs0266@iiitkottayam.ac.in",
+    "name": "KUMBHUM SNIGDHA",
     "year": 2024,
-    "rollno": 73
-  },
-  {
-    "email": "pabbathisriharicharan25bcs208@iiitkottayam.ac.in",
-    "name": "PABBATHI SRIHARICHARAN",
-    "year": 2025,
-    "rollno": 208
-  },
-  {
-    "email": "suchit22bec6@iiitkottayam.ac.in",
-    "name": "SUCHIT PAUL SANTOSH",
-    "year": 2022,
-    "rollno": 6
-  },
-  {
-    "email": "aritramrinal25bcd53@iiitkottayam.ac.in",
-    "name": "ARITRA MRINAL SAHA",
-    "year": 2025,
-    "rollno": 53
-  },
-  {
-    "email": "vipino24bcd14@iiitkottayam.ac.in",
-    "name": "VIPIN KRISHNA O",
-    "year": 2024,
-    "rollno": 14
-  },
-  {
-    "email": "niranjansoorej24bcs0117@iiitkottayam.ac.in",
-    "name": "NIRANJAN R SOOREJ",
-    "year": 2024,
-    "rollno": 117
-  },
-  {
-    "email": "athuls24bcs0296@iiitkottayam.ac.in",
-    "name": "ATHUL KRISHNA P S",
-    "year": 2024,
-    "rollno": 296
-  },
-  {
-    "email": "mohammadabdul25bcs338@iiitkottayam.ac.in",
-    "name": "MOHAMMAD ABDUL AMAAN SIDDIQUI",
-    "year": 2025,
-    "rollno": 338
-  },
-  {
-    "email": "nitesh25bcy65@iiitkottayam.ac.in",
-    "name": "NITESH",
-    "year": 2025,
-    "rollno": 65
-  },
-  {
-    "email": "saranya23bcs179@iiitkottayam.ac.in",
-    "name": "SARANYA K",
-    "year": 2023,
-    "rollno": 179
-  },
-  {
-    "email": "guttulagopal24bcd44@iiitkottayam.ac.in",
-    "name": "GUTTULA HARSHAVARDHAN S R GOPAL",
-    "year": 2024,
-    "rollno": 44
-  },
-  {
-    "email": "kunavarapuritesh25bcs70@iiitkottayam.ac.in",
-    "name": "KUNAVARAPU RITESH",
-    "year": 2025,
-    "rollno": 70
+    "rollno": 266
   },
   {
     "email": "ushirsujal25bcs300@iiitkottayam.ac.in",
@@ -2658,10 +2532,46 @@
     "rollno": 300
   },
   {
-    "email": "mohamme23bcs108@iiitkottayam.ac.in",
-    "name": "MOHAMMED SABEEH K",
-    "year": 2023,
-    "rollno": 108
+    "email": "niranjansoorej24bcs0117@iiitkottayam.ac.in",
+    "name": "NIRANJAN R SOOREJ",
+    "year": 2024,
+    "rollno": 117
+  },
+  {
+    "email": "tshakthiy24bcd73@iiitkottayam.ac.in",
+    "name": "T P SHIVHA SHAKTHIY",
+    "year": 2024,
+    "rollno": 73
+  },
+  {
+    "email": "suchit22bec6@iiitkottayam.ac.in",
+    "name": "SUCHIT PAUL SANTOSH",
+    "year": 2022,
+    "rollno": 6
+  },
+  {
+    "email": "nitesh25bcy65@iiitkottayam.ac.in",
+    "name": "NITESH",
+    "year": 2025,
+    "rollno": 65
+  },
+  {
+    "email": "athulyakrishnakumar25bcy07@iiitkottayam.ac.in",
+    "name": "ATHULYA KRISHNAKUMAR",
+    "year": 2025,
+    "rollno": 7
+  },
+  {
+    "email": "aritramrinal25bcd53@iiitkottayam.ac.in",
+    "name": "ARITRA MRINAL SAHA",
+    "year": 2025,
+    "rollno": 53
+  },
+  {
+    "email": "mohammadabdul25bcs338@iiitkottayam.ac.in",
+    "name": "MOHAMMAD ABDUL AMAAN SIDDIQUI",
+    "year": 2025,
+    "rollno": 338
   },
   {
     "email": "ramired23bcs77@iiitkottayam.ac.in",
@@ -2670,16 +2580,34 @@
     "rollno": 77
   },
   {
+    "email": "pabbathisriharicharan25bcs208@iiitkottayam.ac.in",
+    "name": "PABBATHI SRIHARICHARAN",
+    "year": 2025,
+    "rollno": 208
+  },
+  {
+    "email": "guttulagopal24bcd44@iiitkottayam.ac.in",
+    "name": "GUTTULA HARSHAVARDHAN S R GOPAL",
+    "year": 2024,
+    "rollno": 44
+  },
+  {
+    "email": "athuls24bcs0296@iiitkottayam.ac.in",
+    "name": "ATHUL KRISHNA P S",
+    "year": 2024,
+    "rollno": 296
+  },
+  {
+    "email": "saranya23bcs179@iiitkottayam.ac.in",
+    "name": "SARANYA K",
+    "year": 2023,
+    "rollno": 179
+  },
+  {
     "email": "kameshwaran25bcy64@iiitkottayam.ac.in",
     "name": "S KAMESHWARAN",
     "year": 2025,
     "rollno": 64
-  },
-  {
-    "email": "aaryadeva25bcs126@iiitkottayam.ac.in",
-    "name": "AARYADEVA R",
-    "year": 2025,
-    "rollno": 126
   },
   {
     "email": "nimisha23bcd4@iiitkottayam.ac.in",
@@ -2688,16 +2616,16 @@
     "rollno": 4
   },
   {
-    "email": "attadabhuvan25bcs276@iiitkottayam.ac.in",
-    "name": "ATTADA BHUVAN TEJA",
-    "year": 2025,
-    "rollno": 276
+    "email": "vivek23bcs43@iiitkottayam.ac.in",
+    "name": "VIVEK BINOD",
+    "year": 2023,
+    "rollno": 43
   },
   {
-    "email": "anirudh23bcs19@iiitkottayam.ac.in",
-    "name": "ANIRUDH S",
-    "year": 2023,
-    "rollno": 19
+    "email": "aaryadeva25bcs126@iiitkottayam.ac.in",
+    "name": "AARYADEVA R",
+    "year": 2025,
+    "rollno": 126
   },
   {
     "email": "kunalkishore25bcy45@iiitkottayam.ac.in",
@@ -2706,22 +2634,46 @@
     "rollno": 45
   },
   {
-    "email": "chiruvo23bcs107@iiitkottayam.ac.in",
-    "name": "CHIRUVOLU HARSHA",
-    "year": 2023,
-    "rollno": 107
+    "email": "dakshmandlekar25bec34@iiitkottayam.ac.in",
+    "name": "DAKSH MANDLEKAR",
+    "year": 2025,
+    "rollno": 34
   },
   {
-    "email": "sugalimukhesh25bcd32@iiitkottayam.ac.in",
-    "name": "SUGALI MUKHESH NAIK",
+    "email": "kunavarapuritesh25bcs70@iiitkottayam.ac.in",
+    "name": "KUNAVARAPU RITESH",
     "year": 2025,
-    "rollno": 32
+    "rollno": 70
+  },
+  {
+    "email": "mohamme23bcs108@iiitkottayam.ac.in",
+    "name": "MOHAMMED SABEEH K",
+    "year": 2023,
+    "rollno": 108
+  },
+  {
+    "email": "anirudh23bcs19@iiitkottayam.ac.in",
+    "name": "ANIRUDH S",
+    "year": 2023,
+    "rollno": 19
+  },
+  {
+    "email": "vipino24bcd14@iiitkottayam.ac.in",
+    "name": "VIPIN KRISHNA O",
+    "year": 2024,
+    "rollno": 14
   },
   {
     "email": "faiha25bcs222@iiitkottayam.ac.in",
     "name": "FAIHA P M",
     "year": 2025,
     "rollno": 222
+  },
+  {
+    "email": "chiruvo23bcs107@iiitkottayam.ac.in",
+    "name": "CHIRUVOLU HARSHA",
+    "year": 2023,
+    "rollno": 107
   },
   {
     "email": "arpitshukla25bcd46@iiitkottayam.ac.in",
@@ -2736,16 +2688,10 @@
     "rollno": 39
   },
   {
-    "email": "viswanathambhargavi25bcd05@iiitkottayam.ac.in",
-    "name": "VISWANATHAM BHARGAVI",
-    "year": 2025,
-    "rollno": 5
-  },
-  {
-    "email": "nithin23bcs103@iiitkottayam.ac.in",
-    "name": "R NITHIN ATHREYA",
+    "email": "ritesh23bcy22@iiitkottayam.ac.in",
+    "name": "RITESH PANDEY",
     "year": 2023,
-    "rollno": 103
+    "rollno": 22
   },
   {
     "email": "bezawadamark24bcy61@iiitkottayam.ac.in",
@@ -2754,40 +2700,10 @@
     "rollno": 61
   },
   {
-    "email": "kavala23bcd53@iiitkottayam.ac.in",
-    "name": "KAVALA SAI SRI NEHARIKA",
-    "year": 2023,
-    "rollno": 53
-  },
-  {
-    "email": "susar22bcs85@iiitkottayam.ac.in",
-    "name": "SUSAR PRANAV SURESH",
-    "year": 2022,
-    "rollno": 85
-  },
-  {
-    "email": "rishibansal24bcs0302@iiitkottayam.ac.in",
-    "name": "RISHI BANSAL",
-    "year": 2024,
-    "rollno": 302
-  },
-  {
-    "email": "devarapallireddy24bcs0294@iiitkottayam.ac.in",
-    "name": "DEVARAPALLI SRIPRIYA REDDY",
-    "year": 2024,
-    "rollno": 294
-  },
-  {
-    "email": "souravsajeev25bcs315@iiitkottayam.ac.in",
-    "name": "SOURAV SAJEEV",
+    "email": "viswanathambhargavi25bcd05@iiitkottayam.ac.in",
+    "name": "VISWANATHAM BHARGAVI",
     "year": 2025,
-    "rollno": 315
-  },
-  {
-    "email": "ritesh23bcy22@iiitkottayam.ac.in",
-    "name": "RITESH PANDEY",
-    "year": 2023,
-    "rollno": 22
+    "rollno": 5
   },
   {
     "email": "tharun25bcs343@iiitkottayam.ac.in",
@@ -2796,10 +2712,16 @@
     "rollno": 343
   },
   {
-    "email": "vinayak23bcs2@iiitkottayam.ac.in",
-    "name": "VINAYAK SHARMA",
-    "year": 2023,
-    "rollno": 2
+    "email": "sugalimukhesh25bcd32@iiitkottayam.ac.in",
+    "name": "SUGALI MUKHESH NAIK",
+    "year": 2025,
+    "rollno": 32
+  },
+  {
+    "email": "devarapallireddy24bcs0294@iiitkottayam.ac.in",
+    "name": "DEVARAPALLI SRIPRIYA REDDY",
+    "year": 2024,
+    "rollno": 294
   },
   {
     "email": "kavya23bcs82@iiitkottayam.ac.in",
@@ -2808,10 +2730,22 @@
     "rollno": 82
   },
   {
-    "email": "sidharth25bcd43@iiitkottayam.ac.in",
-    "name": "SIDHARTH V V",
-    "year": 2025,
-    "rollno": 43
+    "email": "rishibansal24bcs0302@iiitkottayam.ac.in",
+    "name": "RISHI BANSAL",
+    "year": 2024,
+    "rollno": 302
+  },
+  {
+    "email": "susar22bcs85@iiitkottayam.ac.in",
+    "name": "SUSAR PRANAV SURESH",
+    "year": 2022,
+    "rollno": 85
+  },
+  {
+    "email": "vinayak23bcs2@iiitkottayam.ac.in",
+    "name": "VINAYAK SHARMA",
+    "year": 2023,
+    "rollno": 2
   },
   {
     "email": "gopikrishnagopakumaran24bcy03@iiitkottayam.ac.in",
@@ -2826,10 +2760,28 @@
     "rollno": 5
   },
   {
+    "email": "souravsajeev25bcs315@iiitkottayam.ac.in",
+    "name": "SOURAV SAJEEV",
+    "year": 2025,
+    "rollno": 315
+  },
+  {
     "email": "rohitbhaisrodiya25bcs325@iiitkottayam.ac.in",
     "name": "ROHIT BHAISRODIYA",
     "year": 2025,
     "rollno": 325
+  },
+  {
+    "email": "nithin23bcs103@iiitkottayam.ac.in",
+    "name": "R NITHIN ATHREYA",
+    "year": 2023,
+    "rollno": 103
+  },
+  {
+    "email": "kavala23bcd53@iiitkottayam.ac.in",
+    "name": "KAVALA SAI SRI NEHARIKA",
+    "year": 2023,
+    "rollno": 53
   },
   {
     "email": "theerthajyothilal25bcs20@iiitkottayam.ac.in",
@@ -2838,10 +2790,10 @@
     "rollno": 20
   },
   {
-    "email": "gaurikrishnan25bcy03@iiitkottayam.ac.in",
-    "name": "GAURI KRISHNAN",
+    "email": "sidharth25bcd43@iiitkottayam.ac.in",
+    "name": "SIDHARTH V V",
     "year": 2025,
-    "rollno": 3
+    "rollno": 43
   },
   {
     "email": "shravan23bec25@iiitkottayam.ac.in",
@@ -2856,16 +2808,16 @@
     "rollno": 65
   },
   {
+    "email": "kasinaths24bcs0311@iiitkottayam.ac.in",
+    "name": "KASINATH S",
+    "year": 2024,
+    "rollno": 311
+  },
+  {
     "email": "jerripothulamaneesh25bcs08@iiitkottayam.ac.in",
     "name": "JERRIPOTHULA MANEESH",
     "year": 2025,
     "rollno": 8
-  },
-  {
-    "email": "sanyamsharma25bcs196@iiitkottayam.ac.in",
-    "name": "SANYAM SHARMA",
-    "year": 2025,
-    "rollno": 196
   },
   {
     "email": "sripera23bcd22@iiitkottayam.ac.in",
@@ -2874,10 +2826,10 @@
     "rollno": 22
   },
   {
-    "email": "kasinaths24bcs0311@iiitkottayam.ac.in",
-    "name": "KASINATH S",
-    "year": 2024,
-    "rollno": 311
+    "email": "sanyamsharma25bcs196@iiitkottayam.ac.in",
+    "name": "SANYAM SHARMA",
+    "year": 2025,
+    "rollno": 196
   },
   {
     "email": "nidaman23bcs163@iiitkottayam.ac.in",
@@ -2952,28 +2904,22 @@
     "rollno": 15
   },
   {
-    "email": "albin23bcd5@iiitkottayam.ac.in",
-    "name": "ALBIN JOHN",
-    "year": 2023,
-    "rollno": 5
-  },
-  {
     "email": "niyafathima25bcs151@iiitkottayam.ac.in",
     "name": "NIYA FATHIMA V T",
     "year": 2025,
     "rollno": 151
   },
   {
-    "email": "nidhirakesh24bcd06@iiitkottayam.ac.in",
-    "name": "Nidhi Rakesh",
-    "year": 2024,
-    "rollno": 6
+    "email": "aneenajames25bec12@iiitkottayam.ac.in",
+    "name": "ANEENA JAMES VADAKKETHALA",
+    "year": 2025,
+    "rollno": 12
   },
   {
-    "email": "adhnanazeem24bcs03@iiitkottayam.ac.in",
-    "name": "ADHNAN AZEEM",
-    "year": 2024,
-    "rollno": 3
+    "email": "abhinav23bcs181@iiitkottayam.ac.in",
+    "name": "ABHINAV V S",
+    "year": 2023,
+    "rollno": 181
   },
   {
     "email": "agniveshwarrier24bcs0256@iiitkottayam.ac.in",
@@ -3006,22 +2952,16 @@
     "rollno": 34
   },
   {
-    "email": "gargipatil24bcs0320@iiitkottayam.ac.in",
-    "name": "GARGI SHAILENDRAKUMAR PATIL",
-    "year": 2024,
-    "rollno": 320
-  },
-  {
-    "email": "amirthinio24bcs06@iiitkottayam.ac.in",
-    "name": "AMIRTHINI R O",
+    "email": "nidhirakesh24bcd06@iiitkottayam.ac.in",
+    "name": "Nidhi Rakesh",
     "year": 2024,
     "rollno": 6
   },
   {
-    "email": "rudrarajucharanteja25bcd31@iiitkottayam.ac.in",
-    "name": "RUDRARAJU CHARANTEJA",
-    "year": 2025,
-    "rollno": 31
+    "email": "avannishl24bcs19@iiitkottayam.ac.in",
+    "name": "AVANNISH L",
+    "year": 2024,
+    "rollno": 19
   },
   {
     "email": "goutamiajit25bcs19@iiitkottayam.ac.in",
@@ -3042,10 +2982,10 @@
     "rollno": 15
   },
   {
-    "email": "madhav25bcs29@iiitkottayam.ac.in",
-    "name": "MADHAV S",
+    "email": "rudrarajucharanteja25bcd31@iiitkottayam.ac.in",
+    "name": "RUDRARAJU CHARANTEJA",
     "year": 2025,
-    "rollno": 29
+    "rollno": 31
   },
   {
     "email": "aakshith24bec21@iiitkottayam.ac.in",
@@ -3054,16 +2994,22 @@
     "rollno": 21
   },
   {
+    "email": "amirthinio24bcs06@iiitkottayam.ac.in",
+    "name": "AMIRTHINI R O",
+    "year": 2024,
+    "rollno": 6
+  },
+  {
     "email": "jangamsai25bcs339@iiitkottayam.ac.in",
     "name": "JANGAM SAI SRI HARSHA",
     "year": 2025,
     "rollno": 339
   },
   {
-    "email": "avannishl24bcs19@iiitkottayam.ac.in",
-    "name": "AVANNISH L",
+    "email": "gargipatil24bcs0320@iiitkottayam.ac.in",
+    "name": "GARGI SHAILENDRAKUMAR PATIL",
     "year": 2024,
-    "rollno": 19
+    "rollno": 320
   },
   {
     "email": "dineshkumar25bcd28@iiitkottayam.ac.in",
@@ -3078,10 +3024,10 @@
     "rollno": 29
   },
   {
-    "email": "abhinav23bcs181@iiitkottayam.ac.in",
-    "name": "ABHINAV V S",
-    "year": 2023,
-    "rollno": 181
+    "email": "nivednarayan24bcd25@iiitkottayam.ac.in",
+    "name": "NIVED NARAYAN",
+    "year": 2024,
+    "rollno": 25
   },
   {
     "email": "prajwalk24bcs96@iiitkottayam.ac.in",
@@ -3090,10 +3036,10 @@
     "rollno": 96
   },
   {
-    "email": "nivednarayan24bcd25@iiitkottayam.ac.in",
-    "name": "NIVED NARAYAN",
-    "year": 2024,
-    "rollno": 25
+    "email": "madhav25bcs29@iiitkottayam.ac.in",
+    "name": "MADHAV S",
+    "year": 2025,
+    "rollno": 29
   },
   {
     "email": "mudugulakeerthan24bcs0297@iiitkottayam.ac.in",
@@ -3102,10 +3048,10 @@
     "rollno": 297
   },
   {
-    "email": "abhinavawasthi25bcs238@iiitkottayam.ac.in",
-    "name": "ABHINAV AWASTHI",
+    "email": "mihirmahanth25bcs116@iiitkottayam.ac.in",
+    "name": "MIHIR MAHANTH M",
     "year": 2025,
-    "rollno": 238
+    "rollno": 116
   },
   {
     "email": "nandamprasanth24bcy11@iiitkottayam.ac.in",
@@ -3114,22 +3060,16 @@
     "rollno": 11
   },
   {
-    "email": "liaphilip24bcy10@iiitkottayam.ac.in",
-    "name": "LIA ANN PHILIP",
-    "year": 2024,
-    "rollno": 10
-  },
-  {
-    "email": "ksaivarad24bcs21@iiitkottayam.ac.in",
-    "name": "K G SAIVARAD",
-    "year": 2024,
-    "rollno": 21
-  },
-  {
     "email": "bandarupawan25bcs123@iiitkottayam.ac.in",
     "name": "BANDARU PAWAN KRISHNA",
     "year": 2025,
     "rollno": 123
+  },
+  {
+    "email": "liaphilip24bcy10@iiitkottayam.ac.in",
+    "name": "LIA ANN PHILIP",
+    "year": 2024,
+    "rollno": 10
   },
   {
     "email": "lanka23bcd50@iiitkottayam.ac.in",
@@ -3144,22 +3084,22 @@
     "rollno": 52
   },
   {
-    "email": "neerajnair25bcs50@iiitkottayam.ac.in",
-    "name": "NEERAJ H NAIR",
+    "email": "abhinavawasthi25bcs238@iiitkottayam.ac.in",
+    "name": "ABHINAV AWASTHI",
     "year": 2025,
-    "rollno": 50
-  },
-  {
-    "email": "mihirmahanth25bcs116@iiitkottayam.ac.in",
-    "name": "MIHIR MAHANTH M",
-    "year": 2025,
-    "rollno": 116
+    "rollno": 238
   },
   {
     "email": "vartakparth25bcs51@iiitkottayam.ac.in",
     "name": "VARTAK PARTH BHAVESH",
     "year": 2025,
     "rollno": 51
+  },
+  {
+    "email": "neerajnair25bcs50@iiitkottayam.ac.in",
+    "name": "NEERAJ H NAIR",
+    "year": 2025,
+    "rollno": 50
   },
   {
     "email": "sarveshmani25bcs206@iiitkottayam.ac.in",
@@ -3180,10 +3120,10 @@
     "rollno": 60
   },
   {
-    "email": "janniyaswanth25bcs272@iiitkottayam.ac.in",
-    "name": "JANNI YASWANTH KUMAR",
-    "year": 2025,
-    "rollno": 272
+    "email": "aditya23bcy25@iiitkottayam.ac.in",
+    "name": "ADITYA KARN",
+    "year": 2023,
+    "rollno": 25
   },
   {
     "email": "bharadwajchand24bcs59@iiitkottayam.ac.in",
@@ -3204,16 +3144,22 @@
     "rollno": 47
   },
   {
-    "email": "aditya23bcy25@iiitkottayam.ac.in",
-    "name": "ADITYA KARN",
-    "year": 2023,
-    "rollno": 25
+    "email": "ksaivarad24bcs21@iiitkottayam.ac.in",
+    "name": "K G SAIVARAD",
+    "year": 2024,
+    "rollno": 21
   },
   {
     "email": "chaturvedidulam24bcd46@iiitkottayam.ac.in",
     "name": "CHATURVEDI DULAM",
     "year": 2024,
     "rollno": 46
+  },
+  {
+    "email": "janniyaswanth25bcs272@iiitkottayam.ac.in",
+    "name": "JANNI YASWANTH KUMAR",
+    "year": 2025,
+    "rollno": 272
   },
   {
     "email": "tanish23bcs67@iiitkottayam.ac.in",
@@ -3234,10 +3180,16 @@
     "rollno": 22
   },
   {
-    "email": "mathewmanachery24bcs80@iiitkottayam.ac.in",
-    "name": "MATHEW GEORGE MANACHERY",
-    "year": 2024,
-    "rollno": 80
+    "email": "ms.krishtipoddar25bcy34@iiitkottayam.ac.in",
+    "name": "MS.KRISHTI PODDAR",
+    "year": 2025,
+    "rollno": 34
+  },
+  {
+    "email": "gomathy23bcd28@iiitkottayam.ac.in",
+    "name": "GOMATHY KRISHNA BINU",
+    "year": 2023,
+    "rollno": 28
   },
   {
     "email": "gullapallyshreyansh25bcy20@iiitkottayam.ac.in",
@@ -3258,34 +3210,22 @@
     "rollno": 71
   },
   {
-    "email": "kothuruyuvaraj25bcs331@iiitkottayam.ac.in",
-    "name": "KOTHURU YUVARAJ",
-    "year": 2025,
-    "rollno": 331
-  },
-  {
     "email": "sinchanmondal25bcs71@iiitkottayam.ac.in",
     "name": "SINCHAN MONDAL",
     "year": 2025,
     "rollno": 71
   },
   {
-    "email": "paintytejaswi24bcs0268@iiitkottayam.ac.in",
-    "name": "PAINTY CHARAN TEJASWI",
-    "year": 2024,
-    "rollno": 268
-  },
-  {
-    "email": "ananya25bcy50@iiitkottayam.ac.in",
-    "name": "ANANYA A",
-    "year": 2025,
-    "rollno": 50
-  },
-  {
     "email": "mohammedhusain24bcs0137@iiitkottayam.ac.in",
     "name": "MOHAMMED ASHAR HUSAIN",
     "year": 2024,
     "rollno": 137
+  },
+  {
+    "email": "kothuruyuvaraj25bcs331@iiitkottayam.ac.in",
+    "name": "KOTHURU YUVARAJ",
+    "year": 2025,
+    "rollno": 331
   },
   {
     "email": "adithya23bcs55@iiitkottayam.ac.in",
@@ -3300,16 +3240,16 @@
     "rollno": 296
   },
   {
-    "email": "gomathy23bcd28@iiitkottayam.ac.in",
-    "name": "GOMATHY KRISHNA BINU",
-    "year": 2023,
-    "rollno": 28
+    "email": "paintytejaswi24bcs0268@iiitkottayam.ac.in",
+    "name": "PAINTY CHARAN TEJASWI",
+    "year": 2024,
+    "rollno": 268
   },
   {
-    "email": "ms.krishtipoddar25bcy34@iiitkottayam.ac.in",
-    "name": "MS.KRISHTI PODDAR",
-    "year": 2025,
-    "rollno": 34
+    "email": "mathewmanachery24bcs80@iiitkottayam.ac.in",
+    "name": "MATHEW GEORGE MANACHERY",
+    "year": 2024,
+    "rollno": 80
   },
   {
     "email": "navalkishor22bcs39@iiitkottayam.ac.in",
@@ -3318,10 +3258,16 @@
     "rollno": 39
   },
   {
-    "email": "challamanideep25bcs101@iiitkottayam.ac.in",
-    "name": "CHALLA MANIDEEP REDDY",
+    "email": "ananya25bcy50@iiitkottayam.ac.in",
+    "name": "ANANYA A",
     "year": 2025,
-    "rollno": 101
+    "rollno": 50
+  },
+  {
+    "email": "keerthi23bcd10@iiitkottayam.ac.in",
+    "name": "KEERTHI V NAIR",
+    "year": 2023,
+    "rollno": 10
   },
   {
     "email": "arun.m.a24bcs73@iiitkottayam.ac.in",
@@ -3336,22 +3282,22 @@
     "rollno": 93
   },
   {
-    "email": "keerthi23bcd10@iiitkottayam.ac.in",
-    "name": "KEERTHI V NAIR",
-    "year": 2023,
-    "rollno": 10
-  },
-  {
     "email": "dharaneeshkumar25bcs54@iiitkottayam.ac.in",
     "name": "DHARANEESHKUMAR V K",
     "year": 2025,
     "rollno": 54
   },
   {
-    "email": "pratikraj25bcs281@iiitkottayam.ac.in",
-    "name": "PRATIK RAJ",
+    "email": "johanamary25bcs61@iiitkottayam.ac.in",
+    "name": "JOHANA MARY KURUVILLA",
     "year": 2025,
-    "rollno": 281
+    "rollno": 61
+  },
+  {
+    "email": "akshayas24bec57@iiitkottayam.ac.in",
+    "name": "AKSHAYA S",
+    "year": 2024,
+    "rollno": 57
   },
   {
     "email": "lavudya23bec35@iiitkottayam.ac.in",
@@ -3366,10 +3312,10 @@
     "rollno": 193
   },
   {
-    "email": "johanamary25bcs61@iiitkottayam.ac.in",
-    "name": "JOHANA MARY KURUVILLA",
-    "year": 2025,
-    "rollno": 61
+    "email": "niketh23bcd56@iiitkottayam.ac.in",
+    "name": "NIKETH B NATH",
+    "year": 2023,
+    "rollno": 56
   },
   {
     "email": "vivek22bcs202@iiitkottayam.ac.in",
@@ -3384,22 +3330,10 @@
     "rollno": 15
   },
   {
-    "email": "niketh23bcd56@iiitkottayam.ac.in",
-    "name": "NIKETH B NATH",
-    "year": 2023,
-    "rollno": 56
-  },
-  {
     "email": "nehnak24bcd71@iiitkottayam.ac.in",
     "name": "NEHNA MEHRAN M K",
     "year": 2024,
     "rollno": 71
-  },
-  {
-    "email": "sadutushar25bcs332@iiitkottayam.ac.in",
-    "name": "SADU TUSHAR NAIDU",
-    "year": 2025,
-    "rollno": 332
   },
   {
     "email": "rafanafsar24bcy01@iiitkottayam.ac.in",
@@ -3414,10 +3348,10 @@
     "rollno": 143
   },
   {
-    "email": "gaurav23bcs32@iiitkottayam.ac.in",
-    "name": "GAURAV JHALANI",
-    "year": 2023,
-    "rollno": 32
+    "email": "abhinavbabu24bcs0144@iiitkottayam.ac.in",
+    "name": "ABHINAV BABU",
+    "year": 2024,
+    "rollno": 144
   },
   {
     "email": "neeharikasingh25bcs225@iiitkottayam.ac.in",
@@ -3432,16 +3366,22 @@
     "rollno": 18
   },
   {
+    "email": "theerthas24bcs0184@iiitkottayam.ac.in",
+    "name": "THEERTHA S",
+    "year": 2024,
+    "rollno": 184
+  },
+  {
     "email": "shaikfatha24bcs0105@iiitkottayam.ac.in",
     "name": "SHAIK HUMAIR FATHA",
     "year": 2024,
     "rollno": 105
   },
   {
-    "email": "fadilmuhammed25bcs69@iiitkottayam.ac.in",
-    "name": "FADIL MUHAMMED",
+    "email": "pratikraj25bcs281@iiitkottayam.ac.in",
+    "name": "PRATIK RAJ",
     "year": 2025,
-    "rollno": 69
+    "rollno": 281
   },
   {
     "email": "pansareaditya25bcs60@iiitkottayam.ac.in",
@@ -3460,18 +3400,6 @@
     "name": "BEERA BONNI NIRANJAN",
     "year": 2025,
     "rollno": 58
-  },
-  {
-    "email": "abhinavbabu24bcs0144@iiitkottayam.ac.in",
-    "name": "ABHINAV BABU",
-    "year": 2024,
-    "rollno": 144
-  },
-  {
-    "email": "akshayas24bec57@iiitkottayam.ac.in",
-    "name": "AKSHAYA S",
-    "year": 2024,
-    "rollno": 57
   },
   {
     "email": "gowriarun24bcs45@iiitkottayam.ac.in",
@@ -3510,16 +3438,22 @@
     "rollno": 68
   },
   {
-    "email": "chakkavenkata25bcd40@iiitkottayam.ac.in",
-    "name": "CHAKKA VENKATA JYOTHI SWAROOP",
+    "email": "rishabh25bcs13@iiitkottayam.ac.in",
+    "name": "RISHABH D",
     "year": 2025,
-    "rollno": 40
+    "rollno": 13
   },
   {
     "email": "arepall23bcd36@iiitkottayam.ac.in",
     "name": "AREPALLI GIREESH KUMAR GOWD",
     "year": 2023,
     "rollno": 36
+  },
+  {
+    "email": "chakkavenkata25bcd40@iiitkottayam.ac.in",
+    "name": "CHAKKA VENKATA JYOTHI SWAROOP",
+    "year": 2025,
+    "rollno": 40
   },
   {
     "email": "adithyan.v25bcy44@iiitkottayam.ac.in",
@@ -3532,18 +3466,6 @@
     "name": "NIMMAGADDA HARSHA VARDHAN",
     "year": 2023,
     "rollno": 158
-  },
-  {
-    "email": "thirusakthi25bcs237@iiitkottayam.ac.in",
-    "name": "K THIRU SAKTHI VEL",
-    "year": 2025,
-    "rollno": 237
-  },
-  {
-    "email": "govulaprateek25bcs117@iiitkottayam.ac.in",
-    "name": "GOVULA PRATEEK",
-    "year": 2025,
-    "rollno": 117
   },
   {
     "email": "ramavathvikas25bcy36@iiitkottayam.ac.in",
@@ -3564,22 +3486,10 @@
     "rollno": 19
   },
   {
-    "email": "mahesh23bcs31@iiitkottayam.ac.in",
-    "name": "MAHESH P PAI",
-    "year": 2023,
-    "rollno": 31
-  },
-  {
     "email": "gonthunasumanth25bcs103@iiitkottayam.ac.in",
     "name": "GONTHUNA SUMANTH",
     "year": 2025,
     "rollno": 103
-  },
-  {
-    "email": "anandhuprakash25bcs59@iiitkottayam.ac.in",
-    "name": "ANANDHU PRAKASH",
-    "year": 2025,
-    "rollno": 59
   },
   {
     "email": "gutta23bcd44@iiitkottayam.ac.in",
@@ -3588,10 +3498,22 @@
     "rollno": 44
   },
   {
-    "email": "rishabh25bcs13@iiitkottayam.ac.in",
-    "name": "RISHABH D",
+    "email": "gallasuharshitha24bcs51@iiitkottayam.ac.in",
+    "name": "GALLA MAHIMA SUHARSHITHA",
+    "year": 2024,
+    "rollno": 51
+  },
+  {
+    "email": "govulaprateek25bcs117@iiitkottayam.ac.in",
+    "name": "GOVULA PRATEEK",
     "year": 2025,
-    "rollno": 13
+    "rollno": 117
+  },
+  {
+    "email": "anandhuprakash25bcs59@iiitkottayam.ac.in",
+    "name": "ANANDHU PRAKASH",
+    "year": 2025,
+    "rollno": 59
   },
   {
     "email": "pasupureddidinesh25bcs144@iiitkottayam.ac.in",
@@ -3612,10 +3534,10 @@
     "rollno": 161
   },
   {
-    "email": "ratakondasai25bcs90@iiitkottayam.ac.in",
-    "name": "RATAKONDA SAI VENKATA RAAKESH",
+    "email": "ganikalasai25bcs85@iiitkottayam.ac.in",
+    "name": "GANIKALA SAI HIMAJA",
     "year": 2025,
-    "rollno": 90
+    "rollno": 85
   },
   {
     "email": "heemanth25bcs218@iiitkottayam.ac.in",
@@ -3642,16 +3564,10 @@
     "rollno": 54
   },
   {
-    "email": "yatrasitatva25bcs53@iiitkottayam.ac.in",
-    "name": "YATRASI TATVA SAI TAPODHAN",
+    "email": "ratakondasai25bcs90@iiitkottayam.ac.in",
+    "name": "RATAKONDA SAI VENKATA RAAKESH",
     "year": 2025,
-    "rollno": 53
-  },
-  {
-    "email": "adithy23bcd34@iiitkottayam.ac.in",
-    "name": "H S ADITHYAN",
-    "year": 2023,
-    "rollno": 34
+    "rollno": 90
   },
   {
     "email": "bandaru23bcs146@iiitkottayam.ac.in",
@@ -3660,10 +3576,10 @@
     "rollno": 146
   },
   {
-    "email": "malavikamenon25bcs04@iiitkottayam.ac.in",
-    "name": "MALAVIKA S MENON",
+    "email": "yatrasitatva25bcs53@iiitkottayam.ac.in",
+    "name": "YATRASI TATVA SAI TAPODHAN",
     "year": 2025,
-    "rollno": 4
+    "rollno": 53
   },
   {
     "email": "machaananya24bcd27@iiitkottayam.ac.in",
@@ -3684,10 +3600,10 @@
     "rollno": 35
   },
   {
-    "email": "farsin25bcs135@iiitkottayam.ac.in",
-    "name": "FARSIN K P",
+    "email": "malavikamenon25bcs04@iiitkottayam.ac.in",
+    "name": "MALAVIKA S MENON",
     "year": 2025,
-    "rollno": 135
+    "rollno": 4
   },
   {
     "email": "madhuravel25bcd73@iiitkottayam.ac.in",
@@ -3696,16 +3612,10 @@
     "rollno": 73
   },
   {
-    "email": "ganikalasai25bcs85@iiitkottayam.ac.in",
-    "name": "GANIKALA SAI HIMAJA",
-    "year": 2025,
-    "rollno": 85
-  },
-  {
-    "email": "ghanashyam25bcs319@iiitkottayam.ac.in",
-    "name": "GHANASHYAM K B",
-    "year": 2025,
-    "rollno": 319
+    "email": "adithy23bcd34@iiitkottayam.ac.in",
+    "name": "H S ADITHYAN",
+    "year": 2023,
+    "rollno": 34
   },
   {
     "email": "shijins24bcd38@iiitkottayam.ac.in",
@@ -3738,10 +3648,10 @@
     "rollno": 313
   },
   {
-    "email": "dasari23bec19@iiitkottayam.ac.in",
-    "name": "DASARI JASON THEOPHILUS",
-    "year": 2023,
-    "rollno": 19
+    "email": "ghanashyam25bcs319@iiitkottayam.ac.in",
+    "name": "GHANASHYAM K B",
+    "year": 2025,
+    "rollno": 319
   },
   {
     "email": "bhumanyusingh25bcs168@iiitkottayam.ac.in",
@@ -3750,22 +3660,22 @@
     "rollno": 168
   },
   {
+    "email": "farsin25bcs135@iiitkottayam.ac.in",
+    "name": "FARSIN K P",
+    "year": 2025,
+    "rollno": 135
+  },
+  {
+    "email": "dasari23bec19@iiitkottayam.ac.in",
+    "name": "DASARI JASON THEOPHILUS",
+    "year": 2023,
+    "rollno": 19
+  },
+  {
     "email": "ambrishgupta25bcs36@iiitkottayam.ac.in",
     "name": "AMBRISH GUPTA",
     "year": 2025,
     "rollno": 36
-  },
-  {
-    "email": "adarshthomas24bec11@iiitkottayam.ac.in",
-    "name": "ADARSH TOM THOMAS",
-    "year": 2024,
-    "rollno": 11
-  },
-  {
-    "email": "jayanth23bcs40@iiitkottayam.ac.in",
-    "name": "JAYANTH P",
-    "year": 2023,
-    "rollno": 40
   },
   {
     "email": "kenguvavenkatakrishna25bcs326@iiitkottayam.ac.in",
@@ -3774,10 +3684,22 @@
     "rollno": 326
   },
   {
-    "email": "aneenajames25bec12@iiitkottayam.ac.in",
-    "name": "ANEENA JAMES VADAKKETHALA",
-    "year": 2025,
-    "rollno": 12
+    "email": "jayanth23bcs40@iiitkottayam.ac.in",
+    "name": "JAYANTH P",
+    "year": 2023,
+    "rollno": 40
+  },
+  {
+    "email": "kokilavenir24bcs0155@iiitkottayam.ac.in",
+    "name": "KOKILAVENI R",
+    "year": 2024,
+    "rollno": 155
+  },
+  {
+    "email": "srishtik23bcs220@iiitkottayam.ac.in",
+    "name": "G SRISHTIK SEKAR",
+    "year": 2023,
+    "rollno": 220
   },
   {
     "email": "sayanasajeeb25bcs67@iiitkottayam.ac.in",
@@ -3786,22 +3708,16 @@
     "rollno": 67
   },
   {
-    "email": "bsiddharthkrishna24bcs0186@iiitkottayam.ac.in",
-    "name": "B SIDDHARTHKRISHNA",
-    "year": 2024,
-    "rollno": 186
-  },
-  {
     "email": "aysharahman24bcs0272@iiitkottayam.ac.in",
     "name": "AYSHA SHIJNA SHAFEEQUE RAHMAN",
     "year": 2024,
     "rollno": 272
   },
   {
-    "email": "srishtik23bcs220@iiitkottayam.ac.in",
-    "name": "G SRISHTIK SEKAR",
-    "year": 2023,
-    "rollno": 220
+    "email": "nishantsharma25bcs330@iiitkottayam.ac.in",
+    "name": "NISHANT SHARMA",
+    "year": 2025,
+    "rollno": 330
   },
   {
     "email": "gopinarasimha25bcy66@iiitkottayam.ac.in",
@@ -3846,10 +3762,16 @@
     "rollno": 186
   },
   {
-    "email": "nishantsharma25bcs330@iiitkottayam.ac.in",
-    "name": "NISHANT SHARMA",
-    "year": 2025,
-    "rollno": 330
+    "email": "sahajapallapothula24bcs71@iiitkottayam.ac.in",
+    "name": "SAHAJA PALLAPOTHULA",
+    "year": 2024,
+    "rollno": 71
+  },
+  {
+    "email": "shivanshneekhra24bcs23@iiitkottayam.ac.in",
+    "name": "SHIVANSH NEEKHRA",
+    "year": 2024,
+    "rollno": 23
   },
   {
     "email": "princelavania25bcy67@iiitkottayam.ac.in",
@@ -3858,10 +3780,10 @@
     "rollno": 67
   },
   {
-    "email": "sahajapallapothula24bcs71@iiitkottayam.ac.in",
-    "name": "SAHAJA PALLAPOTHULA",
+    "email": "adarshthomas24bec11@iiitkottayam.ac.in",
+    "name": "ADARSH TOM THOMAS",
     "year": 2024,
-    "rollno": 71
+    "rollno": 11
   },
   {
     "email": "thirupathi25bec62@iiitkottayam.ac.in",
@@ -3874,12 +3796,6 @@
     "name": "ARUSH MAHIMA BIJU",
     "year": 2023,
     "rollno": 56
-  },
-  {
-    "email": "kokilavenir24bcs0155@iiitkottayam.ac.in",
-    "name": "KOKILAVENI R",
-    "year": 2024,
-    "rollno": 155
   },
   {
     "email": "soumyadwipmondal25bcy32@iiitkottayam.ac.in",
@@ -3942,6 +3858,12 @@
     "rollno": 31
   },
   {
+    "email": "madiset23bcy11@iiitkottayam.ac.in",
+    "name": "MADISETTI SAI VIVEK",
+    "year": 2023,
+    "rollno": 11
+  },
+  {
     "email": "mallarapulochan25bcs228@iiitkottayam.ac.in",
     "name": "MALLARAPU LOCHAN",
     "year": 2025,
@@ -3954,22 +3876,16 @@
     "rollno": 83
   },
   {
-    "email": "yagantichowdary24bcs0309@iiitkottayam.ac.in",
-    "name": "Yaganti Bavesh Chowdary",
-    "year": 2024,
-    "rollno": 309
+    "email": "gaurav23bcs32@iiitkottayam.ac.in",
+    "name": "GAURAV JHALANI",
+    "year": 2023,
+    "rollno": 32
   },
   {
     "email": "shubhambiswal25bcs190@iiitkottayam.ac.in",
     "name": "SHUBHAM BISWAL",
     "year": 2025,
     "rollno": 190
-  },
-  {
-    "email": "madiset23bcy11@iiitkottayam.ac.in",
-    "name": "MADISETTI SAI VIVEK",
-    "year": 2023,
-    "rollno": 11
   },
   {
     "email": "kedarnadh.r25bcd60@iiitkottayam.ac.in",
@@ -3990,16 +3906,34 @@
     "rollno": 11
   },
   {
+    "email": "medimal23bcd43@iiitkottayam.ac.in",
+    "name": "MEDIMALA BHUVANESWAR REDDY",
+    "year": 2023,
+    "rollno": 43
+  },
+  {
+    "email": "anamikaani24bcs56@iiitkottayam.ac.in",
+    "name": "ANAMIKA ANI",
+    "year": 2024,
+    "rollno": 56
+  },
+  {
+    "email": "banothuvishnuvardhan25bcs80@iiitkottayam.ac.in",
+    "name": "BANOTHU VISHNUVARDHAN",
+    "year": 2025,
+    "rollno": 80
+  },
+  {
     "email": "ekanath23bec29@iiitkottayam.ac.in",
     "name": "EKANATH.R.DAS",
     "year": 2023,
     "rollno": 29
   },
   {
-    "email": "medimal23bcd43@iiitkottayam.ac.in",
-    "name": "MEDIMALA BHUVANESWAR REDDY",
-    "year": 2023,
-    "rollno": 43
+    "email": "yagantichowdary24bcs0309@iiitkottayam.ac.in",
+    "name": "Yaganti Bavesh Chowdary",
+    "year": 2024,
+    "rollno": 309
   },
   {
     "email": "abelabraham24bcd07@iiitkottayam.ac.in",
@@ -4032,28 +3966,28 @@
     "rollno": 342
   },
   {
-    "email": "bogojupranay24bcy08@iiitkottayam.ac.in",
-    "name": "BOGOJU PRANAY",
-    "year": 2024,
-    "rollno": 8
-  },
-  {
     "email": "avinaas23bcy15@iiitkottayam.ac.in",
     "name": "AVINAASH VENKAT THANNIRU",
     "year": 2023,
     "rollno": 15
   },
   {
-    "email": "divyapradhab24bcs0258@iiitkottayam.ac.in",
-    "name": "DIVYAPRADHA B",
-    "year": 2024,
-    "rollno": 258
-  },
-  {
     "email": "sreenandanas24bcs0329@iiitkottayam.ac.in",
     "name": "SREENANDANA S",
     "year": 2024,
     "rollno": 329
+  },
+  {
+    "email": "adarshraghuwanshi24bcy69@iiitkottayam.ac.in",
+    "name": "Adarsh raghuwanshi",
+    "year": 2024,
+    "rollno": 69
+  },
+  {
+    "email": "oguripujitha25bcs250@iiitkottayam.ac.in",
+    "name": "OGURI PUJITHA",
+    "year": 2025,
+    "rollno": 250
   },
   {
     "email": "karthik23bec12@iiitkottayam.ac.in",
@@ -4068,10 +4002,34 @@
     "rollno": 53
   },
   {
-    "email": "rahult24bcs0224@iiitkottayam.ac.in",
-    "name": "RAHUL K T",
+    "email": "bogojupranay24bcy08@iiitkottayam.ac.in",
+    "name": "BOGOJU PRANAY",
     "year": 2024,
-    "rollno": 224
+    "rollno": 8
+  },
+  {
+    "email": "mohitraj25bcs270@iiitkottayam.ac.in",
+    "name": "MOHIT RAJ",
+    "year": 2025,
+    "rollno": 270
+  },
+  {
+    "email": "ramnathkumar25bcy39@iiitkottayam.ac.in",
+    "name": "RAMNATH KUMAR MAHTO",
+    "year": 2025,
+    "rollno": 39
+  },
+  {
+    "email": "rangana23bcs116@iiitkottayam.ac.in",
+    "name": "RANGANA HARSHITH SUBRAMANYAM",
+    "year": 2023,
+    "rollno": 116
+  },
+  {
+    "email": "muppallaaniketh25bcs89@iiitkottayam.ac.in",
+    "name": "MUPPALLA ANIKETH VARDHAN",
+    "year": 2025,
+    "rollno": 89
   },
   {
     "email": "ponkuvarun25bcs100@iiitkottayam.ac.in",
@@ -4080,10 +4038,34 @@
     "rollno": 100
   },
   {
-    "email": "muppallaaniketh25bcs89@iiitkottayam.ac.in",
-    "name": "MUPPALLA ANIKETH VARDHAN",
+    "email": "rahult24bcs0224@iiitkottayam.ac.in",
+    "name": "RAHUL K T",
+    "year": 2024,
+    "rollno": 224
+  },
+  {
+    "email": "divyapradhab24bcs0258@iiitkottayam.ac.in",
+    "name": "DIVYAPRADHA B",
+    "year": 2024,
+    "rollno": 258
+  },
+  {
+    "email": "adityaa24bcs38@iiitkottayam.ac.in",
+    "name": "ADITYA A",
+    "year": 2024,
+    "rollno": 38
+  },
+  {
+    "email": "somurirohit24bcd49@iiitkottayam.ac.in",
+    "name": "SOMURI ROHIT",
+    "year": 2024,
+    "rollno": 49
+  },
+  {
+    "email": "pranavkochamury25bcy01@iiitkottayam.ac.in",
+    "name": "PRANAV KOCHAMURY SARATH",
     "year": 2025,
-    "rollno": 89
+    "rollno": 1
   },
   {
     "email": "haripra23bcs36@iiitkottayam.ac.in",
@@ -4098,10 +4080,34 @@
     "rollno": 16
   },
   {
-    "email": "vinayakbijesh23bec56@iiitkottayam.ac.in",
-    "name": "VINAYAK BIJESH",
+    "email": "adithya23bcs51@iiitkottayam.ac.in",
+    "name": "ADITHYA KRISHNA",
     "year": 2023,
-    "rollno": 56
+    "rollno": 51
+  },
+  {
+    "email": "harshinia24bcs0171@iiitkottayam.ac.in",
+    "name": "HARSHINI A",
+    "year": 2024,
+    "rollno": 171
+  },
+  {
+    "email": "pasupureddyshashank25bcs79@iiitkottayam.ac.in",
+    "name": "PASUPUREDDY SHASHANK",
+    "year": 2025,
+    "rollno": 79
+  },
+  {
+    "email": "maram23bcs95@iiitkottayam.ac.in",
+    "name": "MARAM SAI MANIDEEP",
+    "year": 2023,
+    "rollno": 95
+  },
+  {
+    "email": "vellalagowthami24bcs0310@iiitkottayam.ac.in",
+    "name": "VELLALA GOWTHAMI",
+    "year": 2024,
+    "rollno": 310
   },
   {
     "email": "devansh25bcy31@iiitkottayam.ac.in",
@@ -4110,10 +4116,52 @@
     "rollno": 31
   },
   {
-    "email": "adithya23bcs51@iiitkottayam.ac.in",
-    "name": "ADITHYA KRISHNA",
-    "year": 2023,
-    "rollno": 51
+    "email": "maddulurikarthik24bcs0207@iiitkottayam.ac.in",
+    "name": "Madduluri Dinesh Karthik",
+    "year": 2024,
+    "rollno": 207
+  },
+  {
+    "email": "ankamshanmukha25bcd37@iiitkottayam.ac.in",
+    "name": "ANKAM SHANMUKHA RAJA SRI VENKATA SAI",
+    "year": 2025,
+    "rollno": 37
+  },
+  {
+    "email": "joeanil24bec24@iiitkottayam.ac.in",
+    "name": "JOE ANIL",
+    "year": 2024,
+    "rollno": 24
+  },
+  {
+    "email": "naraharirohith24bcs0276@iiitkottayam.ac.in",
+    "name": "NARAHARI SAI ROHITH",
+    "year": 2024,
+    "rollno": 276
+  },
+  {
+    "email": "rahesh22bcy42@iiitkottayam.ac.in",
+    "name": "RAHESH SARMA A",
+    "year": 2022,
+    "rollno": 42
+  },
+  {
+    "email": "shlokdeshmukh24bcs0111@iiitkottayam.ac.in",
+    "name": "SHLOK DESHMUKH",
+    "year": 2024,
+    "rollno": 111
+  },
+  {
+    "email": "dharavaththarun25bcs118@iiitkottayam.ac.in",
+    "name": "DHARAVATH THARUN",
+    "year": 2025,
+    "rollno": 118
+  },
+  {
+    "email": "attadabhuvan25bcs276@iiitkottayam.ac.in",
+    "name": "ATTADA BHUVAN TEJA",
+    "year": 2025,
+    "rollno": 276
   },
   {
     "email": "devarakondayaswanth24bcs0283@iiitkottayam.ac.in",
@@ -4122,16 +4170,58 @@
     "rollno": 283
   },
   {
-    "email": "jaithg24bec56@iiitkottayam.ac.in",
-    "name": "JAITH KRISHNA V G",
-    "year": 2024,
+    "email": "mahadasutarak25bcd59@iiitkottayam.ac.in",
+    "name": "MAHADASU TARAK RAM",
+    "year": 2025,
+    "rollno": 59
+  },
+  {
+    "email": "vinayakbijesh23bec56@iiitkottayam.ac.in",
+    "name": "VINAYAK BIJESH",
+    "year": 2023,
     "rollno": 56
+  },
+  {
+    "email": "shalinim24bcs0308@iiitkottayam.ac.in",
+    "name": "SHALINI M",
+    "year": 2024,
+    "rollno": 308
+  },
+  {
+    "email": "nadindl23bcs111@iiitkottayam.ac.in",
+    "name": "NADINDLA MAHABUB MAHHEN",
+    "year": 2023,
+    "rollno": 111
+  },
+  {
+    "email": "siva23bcs25@iiitkottayam.ac.in",
+    "name": "SIVA PRASAD A",
+    "year": 2023,
+    "rollno": 25
+  },
+  {
+    "email": "fadilmuhammed25bcs69@iiitkottayam.ac.in",
+    "name": "FADIL MUHAMMED",
+    "year": 2025,
+    "rollno": 69
+  },
+  {
+    "email": "vipinka23bcs11@iiitkottayam.ac.in",
+    "name": "VIPINKARTHIC KARTHIKEYAN",
+    "year": 2023,
+    "rollno": 11
   },
   {
     "email": "avamshi24bcy33@iiitkottayam.ac.in",
     "name": "A KRISHNA VAMSHI",
     "year": 2024,
     "rollno": 33
+  },
+  {
+    "email": "anshumohan22bcy19@iiitkottayam.ac.in",
+    "name": "ANSHUMOHAN ACHARYA",
+    "year": 2022,
+    "rollno": 19
   },
   {
     "email": "harsh23bcs133@iiitkottayam.ac.in",
@@ -4144,5 +4234,575 @@
     "name": "PINNINTI NIHAL REDDY",
     "year": 2024,
     "rollno": 203
+  },
+  {
+    "email": "sejal23bcs48@iiitkottayam.ac.in",
+    "name": "SEJAL SATHEESH",
+    "year": 2023,
+    "rollno": 48
+  },
+  {
+    "email": "kprerana24bcs48@iiitkottayam.ac.in",
+    "name": "K PRERANA",
+    "year": 2024,
+    "rollno": 48
+  },
+  {
+    "email": "banavat23bec20@iiitkottayam.ac.in",
+    "name": "BANAVATH SWATHIK",
+    "year": 2023,
+    "rollno": 20
+  },
+  {
+    "email": "kishores24bcs0288@iiitkottayam.ac.in",
+    "name": "KISHORE KUMAR S",
+    "year": 2024,
+    "rollno": 288
+  },
+  {
+    "email": "beesu23bcs112@iiitkottayam.ac.in",
+    "name": "BEESU SAI KUSHWANT",
+    "year": 2023,
+    "rollno": 112
+  },
+  {
+    "email": "challamanideep25bcs101@iiitkottayam.ac.in",
+    "name": "CHALLA MANIDEEP REDDY",
+    "year": 2025,
+    "rollno": 101
+  },
+  {
+    "email": "nevilmathew25bcd11@iiitkottayam.ac.in",
+    "name": "NEVIL MATHEW SANISH",
+    "year": 2025,
+    "rollno": 11
+  },
+  {
+    "email": "amal23bcs156@iiitkottayam.ac.in",
+    "name": "AMAL BYJU DEV",
+    "year": 2023,
+    "rollno": 156
+  },
+  {
+    "email": "gaurikrishnan25bcy03@iiitkottayam.ac.in",
+    "name": "GAURI KRISHNAN",
+    "year": 2025,
+    "rollno": 3
+  },
+  {
+    "email": "anngeorge24bec03@iiitkottayam.ac.in",
+    "name": "ANN MARY GEORGE",
+    "year": 2024,
+    "rollno": 3
+  },
+  {
+    "email": "soumall23bcs172@iiitkottayam.ac.in",
+    "name": "SOUMALLYA SARKAR",
+    "year": 2023,
+    "rollno": 172
+  },
+  {
+    "email": "disilvaramesh25bcd36@iiitkottayam.ac.in",
+    "name": "DISILVA RAMESH R",
+    "year": 2025,
+    "rollno": 36
+  },
+  {
+    "email": "neerajnirmal25bec47@iiitkottayam.ac.in",
+    "name": "NEERAJ NIRMAL",
+    "year": 2025,
+    "rollno": 47
+  },
+  {
+    "email": "rishamrafi25bcy53@iiitkottayam.ac.in",
+    "name": "RISHAM RAFI",
+    "year": 2025,
+    "rollno": 53
+  },
+  {
+    "email": "srithishwaran24bec58@iiitkottayam.ac.in",
+    "name": "S RITHISHWARAN",
+    "year": 2024,
+    "rollno": 58
+  },
+  {
+    "email": "govind22bcs156@iiitkottayam.ac.in",
+    "name": "GOVIND S MENON",
+    "year": 2022,
+    "rollno": 156
+  },
+  {
+    "email": "ayushsuman25bcs139@iiitkottayam.ac.in",
+    "name": "AYUSH SUMAN",
+    "year": 2025,
+    "rollno": 139
+  },
+  {
+    "email": "iffathfathima25bcd56@iiitkottayam.ac.in",
+    "name": "IFFATH FATHIMA M I",
+    "year": 2025,
+    "rollno": 56
+  },
+  {
+    "email": "ritikvasanta24bcs0277@iiitkottayam.ac.in",
+    "name": "RITIK VASANTA",
+    "year": 2024,
+    "rollno": 277
+  },
+  {
+    "email": "reanna25bcs88@iiitkottayam.ac.in",
+    "name": "REANNA J",
+    "year": 2025,
+    "rollno": 88
+  },
+  {
+    "email": "raghuramkalapala25bcy27@iiitkottayam.ac.in",
+    "name": "RAGHURAM KALAPALA",
+    "year": 2025,
+    "rollno": 27
+  },
+  {
+    "email": "anjananandakumar24bcy15@iiitkottayam.ac.in",
+    "name": "ANJANA NANDAKUMAR",
+    "year": 2024,
+    "rollno": 15
+  },
+  {
+    "email": "zewin23bcs63@iiitkottayam.ac.in",
+    "name": "ZEWIN JOS KATTIKARAN",
+    "year": 2023,
+    "rollno": 63
+  },
+  {
+    "email": "sahala24bcy19@iiitkottayam.ac.in",
+    "name": "SAHAL ASFAR V A",
+    "year": 2024,
+    "rollno": 19
+  },
+  {
+    "email": "koyiladakarthik25bcs249@iiitkottayam.ac.in",
+    "name": "KOYILADA KARTHIK",
+    "year": 2025,
+    "rollno": 249
+  },
+  {
+    "email": "nileshkumar24bcs0210@iiitkottayam.ac.in",
+    "name": "NILESH KUMAR",
+    "year": 2024,
+    "rollno": 210
+  },
+  {
+    "email": "tippana23bcd54@iiitkottayam.ac.in",
+    "name": "TIPPANAWAR YASH SHITAL",
+    "year": 2023,
+    "rollno": 54
+  },
+  {
+    "email": "vyshnav25bcs76@iiitkottayam.ac.in",
+    "name": "VYSHNAV P K",
+    "year": 2025,
+    "rollno": 76
+  },
+  {
+    "email": "waghkailas24bcs0208@iiitkottayam.ac.in",
+    "name": "WAGH KAUSHAL KAILAS",
+    "year": 2024,
+    "rollno": 208
+  },
+  {
+    "email": "bsiddharthkrishna24bcs0186@iiitkottayam.ac.in",
+    "name": "B SIDDHARTHKRISHNA",
+    "year": 2024,
+    "rollno": 186
+  },
+  {
+    "email": "kolimimahesh25bcs77@iiitkottayam.ac.in",
+    "name": "KOLIMI MAHESH",
+    "year": 2025,
+    "rollno": 77
+  },
+  {
+    "email": "surajdhonnar25bcs150@iiitkottayam.ac.in",
+    "name": "SURAJ DHONNAR",
+    "year": 2025,
+    "rollno": 150
+  },
+  {
+    "email": "malampa23bcs217@iiitkottayam.ac.in",
+    "name": "MALAMPATI CHARAN",
+    "year": 2023,
+    "rollno": 217
+  },
+  {
+    "email": "pranavsuhas25bcs58@iiitkottayam.ac.in",
+    "name": "PRANAV SUHAS SHINDE",
+    "year": 2025,
+    "rollno": 58
+  },
+  {
+    "email": "nandaki23bec31@iiitkottayam.ac.in",
+    "name": "NANDAKISHOR P B",
+    "year": 2023,
+    "rollno": 31
+  },
+  {
+    "email": "mahesh23bcs31@iiitkottayam.ac.in",
+    "name": "MAHESH P PAI",
+    "year": 2023,
+    "rollno": 31
+  },
+  {
+    "email": "nivedithashyla24bcs07@iiitkottayam.ac.in",
+    "name": "NIVEDITHA GIREESAN SHYLA",
+    "year": 2024,
+    "rollno": 7
+  },
+  {
+    "email": "aarsha25bec17@iiitkottayam.ac.in",
+    "name": "AARSHA R S",
+    "year": 2025,
+    "rollno": 17
+  },
+  {
+    "email": "kanchalayashwant24bcs0284@iiitkottayam.ac.in",
+    "name": "YASHWANT",
+    "year": 2024,
+    "rollno": 284
+  },
+  {
+    "email": "kanishk23bcy3@iiitkottayam.ac.in",
+    "name": "KANISHK MITTAL",
+    "year": 2023,
+    "rollno": 3
+  },
+  {
+    "email": "adapa23bcs30@iiitkottayam.ac.in",
+    "name": "ADAPA YASWANT VENKATA SAI RANGAIAH NAIDU",
+    "year": 2023,
+    "rollno": 30
+  },
+  {
+    "email": "elzarose25bcs95@iiitkottayam.ac.in",
+    "name": "ELZA ROSE WILSON",
+    "year": 2025,
+    "rollno": 95
+  },
+  {
+    "email": "jaithg24bec56@iiitkottayam.ac.in",
+    "name": "JAITH KRISHNA V G",
+    "year": 2024,
+    "rollno": 56
+  },
+  {
+    "email": "aileenvarghese25bcy30@iiitkottayam.ac.in",
+    "name": "AILEEN VARGHESE GEORGE",
+    "year": 2025,
+    "rollno": 30
+  },
+  {
+    "email": "vigil23bcs142@iiitkottayam.ac.in",
+    "name": "VIGIL DAS P S",
+    "year": 2023,
+    "rollno": 142
+  },
+  {
+    "email": "vaisag23bcy40@iiitkottayam.ac.in",
+    "name": "VAISAG J",
+    "year": 2023,
+    "rollno": 40
+  },
+  {
+    "email": "adhnanazeem24bcs03@iiitkottayam.ac.in",
+    "name": "ADHNAN AZEEM",
+    "year": 2024,
+    "rollno": 3
+  },
+  {
+    "email": "madhave23bcd35@iiitkottayam.ac.in",
+    "name": "MADHAVENDRANATH S",
+    "year": 2023,
+    "rollno": 35
+  },
+  {
+    "email": "jeswanth22bcs211@iiitkottayam.ac.in",
+    "name": "ALLURI JESWANTH JOEL",
+    "year": 2022,
+    "rollno": 211
+  },
+  {
+    "email": "joelmeesala24bcy02@iiitkottayam.ac.in",
+    "name": "JOEL STEPHEN MEESALA",
+    "year": 2024,
+    "rollno": 2
+  },
+  {
+    "email": "jacob23bcy26@iiitkottayam.ac.in",
+    "name": "JACOB ANTONY JEEJO",
+    "year": 2023,
+    "rollno": 26
+  },
+  {
+    "email": "shaun23bcd6@iiitkottayam.ac.in",
+    "name": "Shaun Alan Joseph - IIITK",
+    "year": 2023,
+    "rollno": 6
+  },
+  {
+    "email": "panjamisujeesh24bcy64@iiitkottayam.ac.in",
+    "name": "PANJAMI SUJEESH",
+    "year": 2024,
+    "rollno": 64
+  },
+  {
+    "email": "azraasalim25bec11@iiitkottayam.ac.in",
+    "name": "AZRAA SALIM",
+    "year": 2025,
+    "rollno": 11
+  },
+  {
+    "email": "kurupanandhukrishne25bcy13@iiitkottayam.ac.in",
+    "name": "KURUP ANANDHUKRISHNE VINODKUMAR",
+    "year": 2025,
+    "rollno": 13
+  },
+  {
+    "email": "irine23bcs97@iiitkottayam.ac.in",
+    "name": "IRINE ANNA JOHNSON",
+    "year": 2023,
+    "rollno": 97
+  },
+  {
+    "email": "codersclub@iiitkottayam.ac.in",
+    "name": "CodersClub",
+    "year": null,
+    "rollno": null
+  },
+  {
+    "email": "benvinvinu24bcs0233@iiitkottayam.ac.in",
+    "name": "BENVIN VINU",
+    "year": 2024,
+    "rollno": 233
+  },
+  {
+    "email": "aregoud24bcs0201@iiitkottayam.ac.in",
+    "name": "ARE DINESH KUMAR GOUD",
+    "year": 2024,
+    "rollno": 201
+  },
+  {
+    "email": "kupireddibharadwaj25bcs323@iiitkottayam.ac.in",
+    "name": "KUPIREDDI BHARADWAJ SYAM SUNDAR",
+    "year": 2025,
+    "rollno": 323
+  },
+  {
+    "email": "prarthanaa24bcs0112@iiitkottayam.ac.in",
+    "name": "PRARTHANA M A",
+    "year": 2024,
+    "rollno": 112
+  },
+  {
+    "email": "albin23bcd5@iiitkottayam.ac.in",
+    "name": "ALBIN JOHN",
+    "year": 2023,
+    "rollno": 5
+  },
+  {
+    "email": "amal.a24bcs0282@iiitkottayam.ac.in",
+    "name": "Amal. A",
+    "year": 2024,
+    "rollno": 282
+  },
+  {
+    "email": "roshan23bcs9@iiitkottayam.ac.in",
+    "name": "ROSHAN BINOJ",
+    "year": 2023,
+    "rollno": 9
+  },
+  {
+    "email": "malapatichowdary24bcs0301@iiitkottayam.ac.in",
+    "name": "MALAPATI VIVEKANANDA CHOWDARY",
+    "year": 2024,
+    "rollno": 301
+  },
+  {
+    "email": "mohanapriyams25bec41@iiitkottayam.ac.in",
+    "name": "MOHANAPRIYA MS",
+    "year": 2025,
+    "rollno": 41
+  },
+  {
+    "email": "serahsusan25bcs56@iiitkottayam.ac.in",
+    "name": "SERAH SUSAN SAJAN",
+    "year": 2025,
+    "rollno": 56
+  },
+  {
+    "email": "vontedd23bcs81@iiitkottayam.ac.in",
+    "name": "VONTEDDU MAMALESH RAMANA RAJU",
+    "year": 2023,
+    "rollno": 81
+  },
+  {
+    "email": "vanamasneha25bcs179@iiitkottayam.ac.in",
+    "name": "VANAMA SNEHA",
+    "year": 2025,
+    "rollno": 179
+  },
+  {
+    "email": "sanisettykumar24bcs0217@iiitkottayam.ac.in",
+    "name": "MANVITH KUMAR SANISETTY - IIITK",
+    "year": 2024,
+    "rollno": 217
+  },
+  {
+    "email": "thirusakthi25bcs237@iiitkottayam.ac.in",
+    "name": "K THIRU SAKTHI VEL",
+    "year": 2025,
+    "rollno": 237
+  },
+  {
+    "email": "dommarajuyashasri24bcy57@iiitkottayam.ac.in",
+    "name": "DOMMARAJU YASHASRI",
+    "year": 2024,
+    "rollno": 57
+  },
+  {
+    "email": "vishesh24bcs0239@iiitkottayam.ac.in",
+    "name": "VISHESH",
+    "year": 2024,
+    "rollno": 239
+  },
+  {
+    "email": "sajishvarghese24bcs01@iiitkottayam.ac.in",
+    "name": "SAJISH SAJAN VARGHESE",
+    "year": 2024,
+    "rollno": 1
+  },
+  {
+    "email": "sonajomon24bcs16@iiitkottayam.ac.in",
+    "name": "SONA JOMON",
+    "year": 2024,
+    "rollno": 16
+  },
+  {
+    "email": "amenk24bcs0200@iiitkottayam.ac.in",
+    "name": "AMEN ROSHIN K",
+    "year": 2024,
+    "rollno": 200
+  },
+  {
+    "email": "shauryachaturvedi24bcs0222@iiitkottayam.ac.in",
+    "name": "SHAURYA CHATURVEDI",
+    "year": 2024,
+    "rollno": 222
+  },
+  {
+    "email": "sanjans24bec35@iiitkottayam.ac.in",
+    "name": "SANJAN DAS S S",
+    "year": 2024,
+    "rollno": 35
+  },
+  {
+    "email": "banadee23bcy7@iiitkottayam.ac.in",
+    "name": "BANADEEP HAZARIKA",
+    "year": 2023,
+    "rollno": 7
+  },
+  {
+    "email": "darapaneniteja24bec34@iiitkottayam.ac.in",
+    "name": "DARAPANENI ASHWIN TEJA",
+    "year": 2024,
+    "rollno": 34
+  },
+  {
+    "email": "jamikrishna24bcs0167@iiitkottayam.ac.in",
+    "name": "JAMI VAMSI KRISHNA",
+    "year": 2024,
+    "rollno": 167
+  },
+  {
+    "email": "shivanshbhadauriya24bcs0227@iiitkottayam.ac.in",
+    "name": "SHIVANSH BHADAURIYA",
+    "year": 2024,
+    "rollno": 227
+  },
+  {
+    "email": "devnarayans24bcs0209@iiitkottayam.ac.in",
+    "name": "DEVNARAYAN P S",
+    "year": 2024,
+    "rollno": 209
+  },
+  {
+    "email": "ayushkumar24bcs0238@iiitkottayam.ac.in",
+    "name": "AYUSH KUMAR",
+    "year": 2024,
+    "rollno": 238
+  },
+  {
+    "email": "vrindaj24bcs52@iiitkottayam.ac.in",
+    "name": "VRINDA R J",
+    "year": 2024,
+    "rollno": 52
+  },
+  {
+    "email": "sharath22bcs70@iiitkottayam.ac.in",
+    "name": "SHARATH CHANDRAN T",
+    "year": 2022,
+    "rollno": 70
+  },
+  {
+    "email": "krishnendurajesh24bcs0132@iiitkottayam.ac.in",
+    "name": "KRISHNENDU RAJESH",
+    "year": 2024,
+    "rollno": 132
+  },
+  {
+    "email": "banirudh24bcy16@iiitkottayam.ac.in",
+    "name": "B ANIRUDH",
+    "year": 2024,
+    "rollno": 16
+  },
+  {
+    "email": "tenkanichandan25bec54@iiitkottayam.ac.in",
+    "name": "TENKANI CHANDAN SRIKAR",
+    "year": 2025,
+    "rollno": 54
+  },
+  {
+    "email": "ashutoshshukla24bcs0211@iiitkottayam.ac.in",
+    "name": "ASHUTOSH SHUKLA",
+    "year": 2024,
+    "rollno": 211
+  },
+  {
+    "email": "malkibaimahammad25bcd70@iiitkottayam.ac.in",
+    "name": "MALKIBAI MAHAMMAD IMRAN",
+    "year": 2025,
+    "rollno": 70
+  },
+  {
+    "email": "vippart23bcs49@iiitkottayam.ac.in",
+    "name": "VIPPARTHI SATYA VIVEK",
+    "year": 2023,
+    "rollno": 49
+  },
+  {
+    "email": "himmatsirwee24bcs40@iiitkottayam.ac.in",
+    "name": "HIMMAT SIRWEE",
+    "year": 2024,
+    "rollno": 40
+  },
+  {
+    "email": "harshkumarparekh24bcs0166@iiitkottayam.ac.in",
+    "name": "HARSHKUMAR JAYESHCHANDRA PAREKH",
+    "year": 2024,
+    "rollno": 166
+  },
+  {
+    "email": "sadutushar25bcs332@iiitkottayam.ac.in",
+    "name": "SADU TUSHAR NAIDU",
+    "year": 2025,
+    "rollno": 332
   }
 ]
